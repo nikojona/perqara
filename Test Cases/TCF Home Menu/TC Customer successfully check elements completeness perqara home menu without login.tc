@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC Customer can check perqara home menu without login</name>
+   <name>TC Customer successfully check elements completeness perqara home menu without login</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>dea17d3b-b1f7-4098-b493-7e4aee77ed2e</testCaseGuid>
