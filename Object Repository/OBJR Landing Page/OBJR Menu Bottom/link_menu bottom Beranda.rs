@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_menu bottom Beranda</name>
+   <tag></tag>
+   <elementGuidId>e917b06b-f157-4ab3-931f-9560a9aa95a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/div/div/div/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.font-avenir.mr-8.nuxt-link-exact-active.nuxt-link-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>becbe7d9-4252-4ef3-9137-c7a4dd3f7e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>9f7caaf9-314f-43f6-8462-349b376eac48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>04837969-a72e-4ef5-8189-d7d70c59aacc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-avenir mr-8 nuxt-link-exact-active nuxt-link-active</value>
+      <webElementGuid>88117d8f-6e97-4ad2-8451-dfe50397009c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Beranda
+              </value>
+      <webElementGuid>c939f0a3-c462-4c83-9f3f-df2a4671fd11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[3]/div[@class=&quot;bg-secondary md:absolute md:bottom-0 md:left-0 md:right-0&quot;]/div[@class=&quot;content-container
+        lg:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        px-6
+        md:px-0
+        py-10&quot;]/div[@class=&quot;upper-section md:flex md:justify-between mb-10&quot;]/div[@class=&quot;md:flex mt-6 md:mt-0&quot;]/div[@class=&quot;text-white mt-5 md:mt-0&quot;]/div[1]/a[@class=&quot;font-avenir mr-8 nuxt-link-exact-active nuxt-link-active&quot;]</value>
+      <webElementGuid>f0fb58e0-5ef9-429d-a823-bd527426eabe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div/div/div[2]/div/div/a</value>
+      <webElementGuid>6db566de-718a-4d78-a0c9-a75c37dbc7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Beranda')])[3]</value>
+      <webElementGuid>b5ee478d-3c4a-41e7-b8cd-6f20bad92354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra Kami'])[1]/following::a[1]</value>
+      <webElementGuid>97f540b6-c863-4ef6-9edd-61a3d59cab8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat lebih banyak'])[1]/following::a[1]</value>
+      <webElementGuid>aaa9084b-93bc-464f-bffd-edcdb01f5121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Advokat'])[5]/preceding::a[1]</value>
+      <webElementGuid>5bdbc33e-f4a9-42ff-a9b1-a529f7b81d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[5]/preceding::a[2]</value>
+      <webElementGuid>5ef7a541-c87c-49da-9842-dde481b46b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[14]</value>
+      <webElementGuid>e70c8f73-eaf4-4f86-ace5-ba8eced2b71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/a</value>
+      <webElementGuid>2ac1d46c-a827-48e0-9373-2b816572572c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = '
+                Beranda
+              ' or . = '
+                Beranda
+              ')]</value>
+      <webElementGuid>6a6dd019-d59d-493e-a847-c2df5ccbc8ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_menu bottom Blog</name>
+   <tag></tag>
+   <elementGuidId>8cede682-0789-4e0c-9fe3-b784c1fb7083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/div/div/div/div[2]/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.font-avenir.mr-8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4d155b68-09d5-4aad-99de-12a909aced8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-avenir mr-8</value>
+      <webElementGuid>e602740e-d0aa-4a39-8e6e-6527a952a498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Blog
+            </value>
+      <webElementGuid>01b82925-3ae4-4508-9c1a-7068a640d62a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[3]/div[@class=&quot;bg-secondary md:absolute md:bottom-0 md:left-0 md:right-0&quot;]/div[@class=&quot;content-container
+        lg:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        px-6
+        md:px-0
+        py-10&quot;]/div[@class=&quot;upper-section md:flex md:justify-between mb-10&quot;]/div[@class=&quot;md:flex mt-6 md:mt-0&quot;]/div[@class=&quot;text-white mt-5 md:mt-0&quot;]/button[@class=&quot;font-avenir mr-8&quot;]</value>
+      <webElementGuid>5e68c692-759d-4b57-b938-46f3d74ff2c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div/div/div[2]/div[3]/button</value>
+      <webElementGuid>2e9777e5-7fbb-4b6d-aaf0-7fa0b53fb56e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Advokat'])[5]/following::button[1]</value>
+      <webElementGuid>58a76274-1efb-48ef-a51c-40a17c470fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[5]/following::button[1]</value>
+      <webElementGuid>e27ed943-0c83-43da-9777-38f74724c6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[5]/preceding::button[1]</value>
+      <webElementGuid>256aeda9-e493-48a0-b1c8-a1e7c8ca7e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[5]/preceding::button[1]</value>
+      <webElementGuid>b0e596c0-7e11-41ab-8453-9c351132ff62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>035ba164-b1bc-453e-bdbf-11a501082921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+              Blog
+            ' or . = '
+              Blog
+            ')]</value>
+      <webElementGuid>fe3f5e59-9ae9-4528-bd14-b7046288f92f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

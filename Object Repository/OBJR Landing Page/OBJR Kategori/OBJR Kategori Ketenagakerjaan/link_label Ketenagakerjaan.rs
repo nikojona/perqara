@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_label Ketenagakerjaan</name>
+   <tag></tag>
+   <elementGuidId>e9de1ef3-be77-4224-a077-55647e12f430</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='index-section']/div/section/div[2]/div[3]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7d676b93-8b07-4dd2-a04a-74f9c250abb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-avenir text-sm md:text-base text-center mt-4</value>
+      <webElementGuid>3fd06a83-3890-46bd-9876-9a71860d5fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Ketenagakerjaan
+                </value>
+      <webElementGuid>b21ae34c-425f-466d-bf8b-5cd62597197f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;index-section&quot;)/div[1]/section[@class=&quot;categories-filter mx-6 md:mx-0 my-16&quot;]/div[@class=&quot;grid grid-cols-2 md:grid-cols-5 xl:grid-cols-6 gap-5 my-10&quot;]/div[@class=&quot;categories-container
+              shadow-lg
+              h-48
+              md:h-56
+              w-full
+              rounded-lg
+              relative&quot;]/div[@class=&quot;h-full flex justify-center items-center&quot;]/div[1]/p[@class=&quot;font-avenir text-sm md:text-base text-center mt-4&quot;]</value>
+      <webElementGuid>eecc3edd-dcfc-4519-897a-d913d7a49dec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='index-section']/div/section/div[2]/div[3]/div/div/p</value>
+      <webElementGuid>b7ca64aa-56d0-4a9a-8790-d0a71b340943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[2]/following::p[1]</value>
+      <webElementGuid>d801acbe-baa2-45fc-bfa7-b16840c0845e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[1]/following::p[2]</value>
+      <webElementGuid>9f02255a-e9a9-4567-aee0-eddcc70cf983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[3]/preceding::p[1]</value>
+      <webElementGuid>9fdfc800-a038-40f4-b156-c0e1304ca68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[4]/preceding::p[2]</value>
+      <webElementGuid>3c70ec0e-4d2f-49c4-a9f3-a3a6fd238d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ketenagakerjaan']/parent::*</value>
+      <webElementGuid>7dd52a97-04a9-4bbd-98bc-48ed5e3f097e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/p</value>
+      <webElementGuid>b951e473-f0ca-4774-9817-8c28f9b0173f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+                  Ketenagakerjaan
+                ' or . = '
+                  Ketenagakerjaan
+                ')]</value>
+      <webElementGuid>a6d3d16d-3588-47a6-8c3f-806f8ce79f15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

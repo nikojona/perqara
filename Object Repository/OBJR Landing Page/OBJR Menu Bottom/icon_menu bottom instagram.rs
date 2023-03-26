@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_menu bottom instagram</name>
+   <tag></tag>
+   <elementGuidId>b16759ff-3fa0-429e-b7cb-89ced1b5c7bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/div/div/div/div[3]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fab.fa-instagram.text-white.text-2xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>23a633d1-5e99-47b8-a968-ca11936d291d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-instagram text-white text-2xl</value>
+      <webElementGuid>98441ab8-80f8-4fd0-b06a-0ef5966e6cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>eae376d7-a95a-46b1-ad73-ef984fa751d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[3]/div[@class=&quot;bg-secondary md:absolute md:bottom-0 md:left-0 md:right-0&quot;]/div[@class=&quot;content-container
+        lg:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        px-6
+        md:px-0
+        py-10&quot;]/div[@class=&quot;upper-section md:flex md:justify-between mb-10&quot;]/div[@class=&quot;hidden md:block&quot;]/button[1]/i[@class=&quot;fab fa-instagram text-white text-2xl&quot;]</value>
+      <webElementGuid>ff781a6f-391c-4d4f-8881-55fd68ddaa2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div/div/div[3]/button/i</value>
+      <webElementGuid>9c19f0ba-e0d2-42a3-8d9e-d4a5373ec500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/i</value>
+      <webElementGuid>061f3b2d-9804-4ec0-bd6e-47f426d1cccf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

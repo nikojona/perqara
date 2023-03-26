@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_icon x Kebijakan Privasi</name>
+   <tag></tag>
+   <elementGuidId>b914d7bd-3856-4379-bc06-db85d6255f25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/div[2]/div/div/div[1]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fal.fa-times.text-2xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c98d5c7a-b6e1-46b2-bd0e-bb27824ff688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fal fa-times text-2xl</value>
+      <webElementGuid>03a931cd-77aa-4b0c-beea-4cbfa7cb42f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>36363090-6362-4ae1-8bed-d8a930d7c87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[2]/div[@class=&quot;z-50&quot;]/div[@class=&quot;login-container flex justify-center items-center&quot;]/div[@class=&quot;modal-content
+        m-auto
+        mx-3
+        inline-block
+        self-start
+        align-bottom
+        bg-secondary
+        text-white
+        rounded-2xl
+        text-left
+        overflow-hidden
+        shadow-xl
+        transform
+        transition-all
+        sm:align-middle sm:max-w-lg
+        w-full&quot;]/div[@class=&quot;flex justify-between py-4 px-6 md:py-6 md:px-10&quot;]/button[1]/i[@class=&quot;fal fa-times text-2xl&quot;]</value>
+      <webElementGuid>357836db-cee5-4fcd-9eb3-50ca8b5c4e01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div[2]/div/div/div/button/i</value>
+      <webElementGuid>c7931b41-e2ae-4578-aaf6-4fb3f7536607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>d9a8c92e-32f7-48a8-8d22-f4600b5a0b02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Mitra Kami 3</name>
+   <tag></tag>
+   <elementGuidId>a04b87c2-851b-4a07-b7c9-4f012a0e0487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/section[3]/div/div[2]/div/div[3]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>90de8eda-1913-412e-94e3-1f22e56976dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/YLC.12fd59f.png</value>
+      <webElementGuid>25abc7a3-e674-4dcf-a6fe-873973b49ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-80 h-80 m-auto</value>
+      <webElementGuid>0f02d5b0-7066-46a1-a932-8b673cf3f3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[2]/section[@class=&quot;our-partner&quot;]/div[@class=&quot;content-container
+        lg:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        px-6
+        md:px-0
+        py-16
+        md:flex md:justify-between&quot;]/div[@class=&quot;partner-logo mt-8 md:mt-0&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3&quot;]/div[@class=&quot;bg-white
+              rounded-lg
+              shadow-lg
+              p-4
+              mr-4
+              md:mr-0
+              ml-0
+              md:ml-4
+              mb-4
+              w-full
+              md:w-32
+              md:h-32&quot;]/div[@class=&quot;w-full h-full flex justify-center items-center relative&quot;]/div[1]/img[@class=&quot;w-80 h-80 m-auto&quot;]</value>
+      <webElementGuid>e3ac98a3-cc1c-4833-aabb-53ff75811ffd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/section[3]/div/div[2]/div/div[3]/div/div/img</value>
+      <webElementGuid>b776935c-5239-4b7e-906f-2eb7392c7229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/img</value>
+      <webElementGuid>fe2745d1-6c43-401c-88ca-1a897ecd21a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_nuxt/img/YLC.12fd59f.png']</value>
+      <webElementGuid>309a0acd-bfd1-4a25-aaa0-edc221e6e3a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

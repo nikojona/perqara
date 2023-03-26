@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_label Pertanahan</name>
+   <tag></tag>
+   <elementGuidId>05a4dcf3-84c9-475c-9d46-db9a7406f64b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='index-section']/div/section/div[2]/div[5]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7d16f3dc-90e9-4560-9974-d41c6c4f608e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-avenir text-sm md:text-base text-center mt-4</value>
+      <webElementGuid>0e4df4b3-4ee3-4889-a098-4909650cad3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Pertanahan
+                </value>
+      <webElementGuid>34c3b67a-70e7-4da5-b2c6-ffc1048334fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;index-section&quot;)/div[1]/section[@class=&quot;categories-filter mx-6 md:mx-0 my-16&quot;]/div[@class=&quot;grid grid-cols-2 md:grid-cols-5 xl:grid-cols-6 gap-5 my-10&quot;]/div[@class=&quot;categories-container
+              shadow-lg
+              h-48
+              md:h-56
+              w-full
+              rounded-lg
+              relative&quot;]/div[@class=&quot;h-full flex justify-center items-center&quot;]/div[1]/p[@class=&quot;font-avenir text-sm md:text-base text-center mt-4&quot;]</value>
+      <webElementGuid>ba2abb68-b0fe-4cdd-93a7-14ea90269cae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='index-section']/div/section/div[2]/div[5]/div/div/p</value>
+      <webElementGuid>1ed28079-2420-46f1-b53b-1c619365a717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[4]/following::p[1]</value>
+      <webElementGuid>1697db5c-cf20-440c-afd5-ff611c6187d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[3]/following::p[2]</value>
+      <webElementGuid>46d65fd7-4bff-4429-9a95-033c93a6d3ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[5]/preceding::p[1]</value>
+      <webElementGuid>72bf726a-7fe3-4a00-bfa6-da635b56d265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kategori'])[6]/preceding::p[2]</value>
+      <webElementGuid>69fb3713-3b89-432d-ad35-cc2d3a13d6d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pertanahan']/parent::*</value>
+      <webElementGuid>515ac8b6-64c5-4ec3-92ae-e360a2baddad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/p</value>
+      <webElementGuid>61a48847-42b4-43d7-be53-fe425b2fd57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+                  Pertanahan
+                ' or . = '
+                  Pertanahan
+                ')]</value>
+      <webElementGuid>21399af7-2e9e-4f73-a38a-a52f22dd31cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

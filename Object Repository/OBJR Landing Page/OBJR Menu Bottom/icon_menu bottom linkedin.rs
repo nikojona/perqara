@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_menu bottom linkedin</name>
+   <tag></tag>
+   <elementGuidId>5e329223-5056-4e5b-868f-4dde0c76172c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/div/div/div/div[3]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fab.fa-linkedin-in.text-white.ml-2.text-2xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>53bbfd8e-59d8-4457-8eb1-a66727c50c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-linkedin-in text-white ml-2 text-2xl</value>
+      <webElementGuid>e98c2b56-81e2-47b8-8d9a-5d011926db77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d7d5d14a-75bc-4f56-947b-bb54abdb1941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[3]/div[@class=&quot;bg-secondary md:absolute md:bottom-0 md:left-0 md:right-0&quot;]/div[@class=&quot;content-container
+        lg:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        px-6
+        md:px-0
+        py-10&quot;]/div[@class=&quot;upper-section md:flex md:justify-between mb-10&quot;]/div[@class=&quot;hidden md:block&quot;]/button[2]/i[@class=&quot;fab fa-linkedin-in text-white ml-2 text-2xl&quot;]</value>
+      <webElementGuid>a1f24e47-c193-4d51-a466-236c4d663798</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div/div/div[3]/button[2]/i</value>
+      <webElementGuid>422ee898-63ec-4eba-af69-40060f1c8947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>27799d6a-2913-4cd7-9ea3-b9b9130949da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
