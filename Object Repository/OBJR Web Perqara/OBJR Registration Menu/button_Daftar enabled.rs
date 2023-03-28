@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar enabled</name>
+   <tag></tag>
+   <elementGuidId>61a9729c-c011-4c06-a821-a98628882fd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;flex justify-between mt-10&quot;]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9033e916-3be8-4442-a82c-e523e52c3534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+                    leading-loose
+                    py-1
+                    w-32
+                    rounded-lg
+                    text-white
+                    font-bold
+                   bg-primary</value>
+      <webElementGuid>80b09f6b-882d-4101-8dec-94fe7afe593f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Daftar
+                </value>
+      <webElementGuid>b4881449-bc6c-4c3c-8df4-753118b8ef97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/div[@class=&quot;w-full h-100 font-avenir&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3&quot;]/div[@class=&quot;md:h-screen md:w-full
+          bg-white
+          md:col-span-2 md:flex md:justify-center md:items-center&quot;]/div[@class=&quot;p-6 md:p-0 md:w-3/5&quot;]/div[1]/div[2]/div[@class=&quot;flex justify-between mt-10&quot;]/button[@class=&quot;leading-loose
+                    py-1
+                    w-32
+                    rounded-lg
+                    text-white
+                    font-bold
+                   bg-primary&quot;]</value>
+      <webElementGuid>e09be5af-afde-4206-92df-639314be4d8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div[2]/div/div/div[2]/div[4]/button</value>
+      <webElementGuid>fdba1ee0-3336-430f-aaf9-671bea91b09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::button[1]</value>
+      <webElementGuid>ff80fe58-a87d-4123-b780-ccbe7d84f749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::button[1]</value>
+      <webElementGuid>32116719-1a79-46b2-b646-07baccf9a09c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>4261130f-5ad7-45f1-a542-10ebed9f287a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
+      <webElementGuid>529c63ef-d805-42e5-a61d-9cbf7e1d4ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>69e2f046-dbe8-4bf2-afe9-49340dbda682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>b411c5d5-899c-472c-8c6c-7f76ac1f3aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                  Daftar
+                ' or . = '
+                  Daftar
+                ')]</value>
+      <webElementGuid>bd972116-92db-48c4-a11c-a99dbd913e09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

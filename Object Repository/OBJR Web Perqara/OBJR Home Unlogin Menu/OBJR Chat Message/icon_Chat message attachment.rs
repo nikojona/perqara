@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_Chat message attachment</name>
+   <tag></tag>
+   <elementGuidId>3852ea61-65be-4708-9c62-dffbc510aeb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;qchat-conversation-footer__kit__options&quot;]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>a3ea3910-ffc9-4b23-9d1e-3b4fae5cdcd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M 7.21875 5.78125 L 5.78125 7.21875 L 14.5625 16 L 5.78125 24.78125 L 7.21875 26.21875 L 16 17.4375 L 24.78125 26.21875 L 26.21875 24.78125 L 17.4375 16 L 26.21875 7.21875 L 24.78125 5.78125 L 16 14.5625 Z</value>
+      <webElementGuid>54da83d0-b8f9-4d0a-b8d5-723eb191f1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#DDE6E8</value>
+      <webElementGuid>301cdf7d-c25d-4130-b9c3-a7f6e2f374b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[1]/div[@class=&quot;qchat-messenger&quot;]/div[@class=&quot;q-d-flex&quot;]/div[@class=&quot;qchat-messenger__heading q-d-flex q-justify-content-between&quot;]/div[@class=&quot;q-pointer q-ml-1&quot;]/svg[@class=&quot;qchat-icon__close&quot;]/path[1]</value>
+      <webElementGuid>84f74a6d-5199-4683-bac0-fbc212e985ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat Message/iframe_Chat message</value>
+      <webElementGuid>957138cd-a183-4c56-9256-c3bcb6ca3529</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

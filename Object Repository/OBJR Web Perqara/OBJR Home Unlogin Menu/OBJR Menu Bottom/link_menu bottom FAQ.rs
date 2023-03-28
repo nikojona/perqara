@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_menu bottom FAQ</name>
+   <tag></tag>
+   <elementGuidId>466eb781-d319-4b77-baf9-2327363e3dca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='md:flex mt-6 md:mt-0']/div[4]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6cd09bf8-7525-4a86-8c2b-901430148e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/faq</value>
+      <webElementGuid>49f15b82-ebd2-47e4-a5d1-9491dca22523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-avenir mr-8</value>
+      <webElementGuid>3e4d681c-3244-4f96-971b-7d828195aa03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                FAQ
+              </value>
+      <webElementGuid>357526ee-a43f-4b6e-aba1-ffc193cf745f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[3]/div[@class=&quot;bg-secondary md:absolute md:bottom-0 md:left-0 md:right-0&quot;]/div[@class=&quot;content-container
+        lg:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        px-6
+        md:px-0
+        py-10&quot;]/div[@class=&quot;upper-section md:flex md:justify-between mb-10&quot;]/div[@class=&quot;md:flex mt-6 md:mt-0&quot;]/div[@class=&quot;text-white mt-5 md:mt-0&quot;]/div[1]/a[@class=&quot;font-avenir mr-8&quot;]</value>
+      <webElementGuid>c313b118-22fc-4bb6-8674-ba187d981086</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div/div/div[2]/div[4]/div/a</value>
+      <webElementGuid>0c9a8b87-d9d8-401b-9ba9-754f271f3a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'FAQ')])[3]</value>
+      <webElementGuid>de943d9f-3794-4d1c-9756-56250a383b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[5]/following::a[1]</value>
+      <webElementGuid>6cd8f883-5f11-48ad-9364-431ebfa8ebb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Advokat'])[5]/following::a[1]</value>
+      <webElementGuid>91fdc7e4-3673-4a6e-937d-f2687058085e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[5]/preceding::a[1]</value>
+      <webElementGuid>62920ac6-16a8-4cce-98fa-33da5908fe00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/faq')])[3]</value>
+      <webElementGuid>552294f8-9a79-41ee-bf9d-7a428b4621bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a</value>
+      <webElementGuid>1d1d8a69-2167-4d4f-8059-c9e3693ec940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/faq' and (text() = '
+                FAQ
+              ' or . = '
+                FAQ
+              ')]</value>
+      <webElementGuid>4fa008a9-a821-4101-947a-c6443f7eea0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

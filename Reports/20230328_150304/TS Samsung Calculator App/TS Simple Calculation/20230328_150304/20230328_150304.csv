@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS Simple Calculation,,,,2023-03-28 15:03:08,2023-03-28 15:04:37,1m - 28.746s,FAILED
+,,,,,,,
+Test Cases/TCF Samsung Calculator App/TC Addition,,,,2023-03-28 15:03:08,2023-03-28 15:03:39,30.806s,PASSED
+"startExistingApplication(""com.sec.android.app.popupcalculator"")",,,,2023-03-28 15:03:09,2023-03-28 15:03:23,14.177s,PASSED
+delay(5),,,,2023-03-28 15:03:23,2023-03-28 15:03:28,5.076s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button C""), 2)",,,,2023-03-28 15:03:28,2023-03-28 15:03:29,0.833s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button 4""), 2)",,,,2023-03-28 15:03:29,2023-03-28 15:03:30,0.931s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button Addition""), 2)",,,,2023-03-28 15:03:30,2023-03-28 15:03:31,0.847s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button 3""), 2)",,,,2023-03-28 15:03:31,2023-03-28 15:03:31,0.874s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button Equal""), 2)",,,,2023-03-28 15:03:31,2023-03-28 15:03:33,1.552s,PASSED
+"verifyElementText(findTestObject(""OBJR Samsung Calculator/Result Display""), ""7 Calculation result"")",,,,2023-03-28 15:03:33,2023-03-28 15:03:33,0.442s,PASSED
+delay(5),,,,2023-03-28 15:03:33,2023-03-28 15:03:38,5.025s,PASSED
+closeApplication(),,,,2023-03-28 15:03:38,2023-03-28 15:03:39,0.637s,PASSED
+,,,,,,,
+Test Cases/TCF Samsung Calculator App/TC Division,,,,2023-03-28 15:03:39,2023-03-28 15:04:07,28.245s,PASSED
+"startExistingApplication(""com.sec.android.app.popupcalculator"")",,,,2023-03-28 15:03:39,2023-03-28 15:03:51,11.536s,PASSED
+delay(5),,,,2023-03-28 15:03:51,2023-03-28 15:03:56,5.029s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button C""), 2)",,,,2023-03-28 15:03:56,2023-03-28 15:03:57,0.696s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button 3""), 2)",,,,2023-03-28 15:03:57,2023-03-28 15:03:57,0.875s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button 0""), 2)",,,,2023-03-28 15:03:57,2023-03-28 15:03:58,0.801s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button Division""), 2)",,,,2023-03-28 15:03:58,2023-03-28 15:03:59,0.855s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button 6""), 2)",,,,2023-03-28 15:03:59,2023-03-28 15:04:00,0.825s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button Equal""), 2)",,,,2023-03-28 15:04:00,2023-03-28 15:04:01,0.930s,PASSED
+"verifyElementText(findTestObject(""OBJR Samsung Calculator/Result Display""), ""5 Calculation result"")",,,,2023-03-28 15:04:01,2023-03-28 15:04:02,0.937s,PASSED
+delay(5),,,,2023-03-28 15:04:02,2023-03-28 15:04:07,5.011s,PASSED
+closeApplication(),,,,2023-03-28 15:04:07,2023-03-28 15:04:07,0.499s,PASSED
+,,,,,,,
+Test Cases/TCF Samsung Calculator App/TC Multiplication,,,,2023-03-28 15:04:07,2023-03-28 15:04:12,4.700s,FAILED
+"startExistingApplication(""com.sec.android.app.popupcalculator"")",,,,2023-03-28 15:04:08,2023-03-28 15:04:12,4.467s,FAILED
+,,,,,,,
+Test Cases/TCF Samsung Calculator App/TC Subtraction,,,,2023-03-28 15:04:12,2023-03-28 15:04:37,24.488s,PASSED
+"startExistingApplication(""com.sec.android.app.popupcalculator"")",,,,2023-03-28 15:04:12,2023-03-28 15:04:21,8.655s,PASSED
+delay(5),,,,2023-03-28 15:04:21,2023-03-28 15:04:26,5.023s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button C""), 2)",,,,2023-03-28 15:04:26,2023-03-28 15:04:27,0.706s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button 9""), 2)",,,,2023-03-28 15:04:27,2023-03-28 15:04:28,0.862s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button Subtraction""), 2)",,,,2023-03-28 15:04:28,2023-03-28 15:04:28,0.878s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button 3""), 2)",,,,2023-03-28 15:04:28,2023-03-28 15:04:29,0.840s,PASSED
+"tap(findTestObject(""OBJR Samsung Calculator/Button Equal""), 2)",,,,2023-03-28 15:04:29,2023-03-28 15:04:30,0.833s,PASSED
+"verifyElementText(findTestObject(""OBJR Samsung Calculator/Result Display""), ""6 Calculation result"")",,,,2023-03-28 15:04:30,2023-03-28 15:04:31,0.932s,PASSED
+delay(5),,,,2023-03-28 15:04:31,2023-03-28 15:04:36,5.014s,PASSED
+closeApplication(),,,,2023-03-28 15:04:36,2023-03-28 15:04:37,0.484s,PASSED

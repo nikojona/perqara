@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Chat kendala</name>
+   <tag></tag>
+   <elementGuidId>c897e1d8-98b0-4245-8a5d-ff4d071b58c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.qchat-box__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='qchat-box__text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d5e9cd7b-1685-49ab-99a7-fcdf9fa3851c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qchat-box__text</value>
+      <webElementGuid>e0529188-205f-4f85-9b40-c228b34d2031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kendala saat akses Perqara? Klik disini</value>
+      <webElementGuid>c38741e6-c3d7-4095-801b-9e42162df2a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[@class=&quot;qchat-box__left&quot;]/div[@class=&quot;qchat-box__box&quot;]/p[@class=&quot;qchat-box__text&quot;]</value>
+      <webElementGuid>fc33890d-5d71-4828-850d-00bdd0ff3bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat/00_iframe_Chat box</value>
+      <webElementGuid>58a6cd0f-93ad-4c68-b1a4-2ee6408f567f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/p</value>
+      <webElementGuid>7e1d42d7-70ce-49b9-a29e-9a2441a887ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kendala saat akses Perqara? Klik disini']/parent::*</value>
+      <webElementGuid>7fcefd6b-27bc-4ebf-bbdc-f67e8897d9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4234a7d0-0061-402e-90e3-29e34ed3fe68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kendala saat akses Perqara? Klik disini' or . = 'Kendala saat akses Perqara? Klik disini')]</value>
+      <webElementGuid>5dc28912-c038-48fa-bbe5-c264a2517a6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

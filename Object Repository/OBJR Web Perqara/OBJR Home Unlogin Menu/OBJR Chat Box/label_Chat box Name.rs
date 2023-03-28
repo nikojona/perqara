@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Chat box Name</name>
+   <tag></tag>
+   <elementGuidId>4ee77412-ba8c-4bbe-8065-abf75ac98305</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.qchat-form__label.q-mb-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;qontak-webchat&quot;]/qontak-webchat/div/div/div/div/div[2]/div[2]/div/div/div/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9428da8e-ac38-4bc5-bcfb-f33631cf929a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qchat-form__label q-mb-0</value>
+      <webElementGuid>724caec7-3eec-4319-8b71-f3fdff29c38e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Name </value>
+      <webElementGuid>09353d8b-11ad-4feb-8165-06b8b1782bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[1]/div[@class=&quot;qchat-messenger&quot;]/div[@class=&quot;qchat-messenger-body&quot;]/div[2]/div[@class=&quot;qchat-messenger-form&quot;]/div[@class=&quot;qchat-form&quot;]/div[1]/label[@class=&quot;qchat-form__label q-mb-0&quot;]</value>
+      <webElementGuid>b1fe5ff0-65c1-4848-8df8-1bfa36a1134b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat Box/iframe_Chat box</value>
+      <webElementGuid>7a10ee70-eb7d-42dc-a6e2-f23007ab7b9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/div[2]/div[2]/div/div/div/label</value>
+      <webElementGuid>4dc7f710-2280-4fd4-8165-fcc8a104077b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome!'])[1]/following::label[1]</value>
+      <webElementGuid>db83446b-494e-475c-a518-5bd6ca0c1f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/preceding::label[1]</value>
+      <webElementGuid>2562886a-6eea-4772-95a5-235143d2e93b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/preceding::label[2]</value>
+      <webElementGuid>030f16aa-a4b6-46d5-985d-5a95742ed0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Name']/parent::*</value>
+      <webElementGuid>e3d25bdf-eee4-4c5c-9174-9811f91c5d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>491407b1-826f-481c-aa94-a7703b931b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Name ' or . = ' Name ')]</value>
+      <webElementGuid>0b825d08-1829-424e-95f7-81dd5738fba4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

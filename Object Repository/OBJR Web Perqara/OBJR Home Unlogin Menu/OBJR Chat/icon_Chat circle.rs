@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_Chat circle</name>
+   <tag></tag>
+   <elementGuidId>2950e9c2-929a-4fd3-98fd-3bfe8c11bda7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.qchat-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='qchat-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9d9e435-f1f4-40b5-b95b-ebffbab57e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qchat-button</value>
+      <webElementGuid>6ab57861-008b-44b8-b3f5-17a3609fbd34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[@class=&quot;qchat-button&quot;]</value>
+      <webElementGuid>c50ac5da-d44d-44e1-8e18-aa264361e6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat/00_iframe_Chat box</value>
+      <webElementGuid>49f59b2a-52fb-4e33-863f-1728ab1c99d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div[2]</value>
+      <webElementGuid>fae49944-4237-4791-9df6-2312522d74fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>71fd0920-7813-4562-8ca3-87bc6461282f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

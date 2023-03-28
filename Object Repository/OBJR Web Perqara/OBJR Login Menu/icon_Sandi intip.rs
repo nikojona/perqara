@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_Sandi intip</name>
+   <tag></tag>
+   <elementGuidId>923c0028-ccc7-4edf-8d00-a707be87de54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye-slash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@class='fa fa-eye-slash']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cb5244da-c207-4429-bb0f-1843a3454454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye-slash</value>
+      <webElementGuid>24579904-a5ab-45e7-be11-f1d58b8031cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>682478eb-9fd3-48ee-aa5e-2a925d884170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/div[@class=&quot;z-50&quot;]/div[@class=&quot;login-container flex justify-center items-center&quot;]/div[@class=&quot;modal-content
+        m-auto
+        mx-3
+        inline-block
+        self-start
+        align-bottom
+        bg-secondary
+        text-white
+        rounded-2xl
+        text-left
+        overflow-hidden
+        shadow-xl
+        transform
+        transition-all
+        sm:align-middle sm:max-w-lg
+        w-full&quot;]/div[@class=&quot;bg-white
+          h-full
+          rounded-2xl
+          text-black
+          py-4
+          px-6
+          md:py-6 md:px-10&quot;]/div[@class=&quot;form-container font-avenir&quot;]/div[@class=&quot;grid mt-6&quot;]/div[@class=&quot;relative&quot;]/span[@class=&quot;absolute mx-4 py-4 top-0 right-0 cursor-pointer text-primary&quot;]/i[@class=&quot;fa fa-eye-slash&quot;]</value>
+      <webElementGuid>07bcad24-a9b5-4639-b81c-2d7a5f02a5a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/span/i</value>
+      <webElementGuid>306bad0b-3b08-47d6-8ff8-e3dbdfca9711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>a8c027dd-1aec-42e6-b8db-996f151480d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

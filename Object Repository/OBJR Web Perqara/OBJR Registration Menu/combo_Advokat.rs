@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>combo_Advokat</name>
+   <tag></tag>
+   <elementGuidId>66105485-ffac-44d9-a175-bff840e50e23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button:nth-of-type(2) > p.mb-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;flex w-full justify-center&quot;]/button[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0a294164-1f30-4229-9067-e26ec300c5a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1</value>
+      <webElementGuid>9a61d16c-beec-4891-b61c-c355d74ab6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Advokat</value>
+      <webElementGuid>667c5031-ee2b-495e-83df-38de2609af2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[1]/div[@class=&quot;w-full h-100 font-avenir&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3&quot;]/div[@class=&quot;md:h-screen md:w-full
+          bg-white
+          md:col-span-2 md:flex md:justify-center md:items-center&quot;]/div[@class=&quot;p-6 md:p-0 md:w-3/5&quot;]/div[1]/div[@class=&quot;text-center leading-loose mb-10&quot;]/div[@class=&quot;flex w-full justify-center&quot;]/button[2]/p[@class=&quot;mb-1&quot;]</value>
+      <webElementGuid>562858ab-df07-43bc-8a30-242d2752d210</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div[2]/div/div/div/div/button[2]/p</value>
+      <webElementGuid>9f430d92-e5b6-4eb0-9f8b-12dc8bbbbf6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gratis, kapan pun, dan di mana pun.'])[1]/following::p[4]</value>
+      <webElementGuid>a8034e18-ee63-45a9-a676-6e613cac5b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::p[1]</value>
+      <webElementGuid>f666c005-4f8a-4187-914a-41091178a765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::p[1]</value>
+      <webElementGuid>c0a02137-883a-4448-af6c-4623c782738f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Advokat']/parent::*</value>
+      <webElementGuid>eb7f35cb-b7c8-42f8-b59c-b29b5f3a92f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/p</value>
+      <webElementGuid>d4cf2e56-9e11-4cc4-a67c-f9aeb7e5a133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Advokat' or . = 'Advokat')]</value>
+      <webElementGuid>05d0a7aa-63bf-4a15-9583-1ee4d7c756d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

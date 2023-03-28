@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Chat box start chatting</name>
+   <tag></tag>
+   <elementGuidId>5564dbe6-e61b-42fb-8125-f9bc31d66890</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.q-font-weight-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/div[2]/div[2]/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>18e9c78a-6947-4e39-8199-b88896be7ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-font-weight-bold</value>
+      <webElementGuid>2906fee6-09b2-4166-9569-ccfdc238649e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Chatting</value>
+      <webElementGuid>952983c7-4f94-4706-a1a2-a556bb440d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[1]/div[@class=&quot;qchat-messenger&quot;]/div[@class=&quot;qchat-messenger-body&quot;]/div[2]/div[@class=&quot;qchat-messenger-form&quot;]/div[@class=&quot;qchat-form&quot;]/div[1]/button[@class=&quot;q-btn q-w-100&quot;]/span[@class=&quot;q-font-weight-bold&quot;]</value>
+      <webElementGuid>e1d7d93f-b8a1-4df9-b5d7-3554e9a42b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat Box/iframe_Chat box</value>
+      <webElementGuid>aea74068-bf4e-44f7-a250-ec85f8fa2d58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/div[2]/div[2]/div/div/div/button/span</value>
+      <webElementGuid>2af54ee8-3b33-41e8-9077-b09bc7de6c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::span[1]</value>
+      <webElementGuid>6eefdb88-dad2-4c2d-858e-c0ecb42064a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::span[1]</value>
+      <webElementGuid>262e1bf6-daf9-4d96-b402-c6ebde2460ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Chatting']/parent::*</value>
+      <webElementGuid>d1fd50d5-904f-4278-a8a1-6d1d5a0852bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>1ba1b96b-20a7-41bb-97ee-2ad3cb4aefb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start Chatting' or . = 'Start Chatting')]</value>
+      <webElementGuid>3c215b3b-546f-48b4-bbb7-afd7a8a0c0c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

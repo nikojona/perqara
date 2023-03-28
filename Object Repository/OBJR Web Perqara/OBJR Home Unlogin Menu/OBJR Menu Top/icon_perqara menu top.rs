@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_perqara menu top</name>
+   <tag></tag>
+   <elementGuidId>6a567939-6e11-4778-a41d-8a77ec83139c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.w-40</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@class='font-avenir absolute w-full z-10 ']/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>83f3723e-0038-4e71-b9de-4265a9c519f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/logo_perqara_white.e716f48.png</value>
+      <webElementGuid>467d463c-c196-4519-89b1-5fee303daac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>lima logo</value>
+      <webElementGuid>94bb80d8-2742-4d3b-853f-d072da3dd55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-40</value>
+      <webElementGuid>68a79c8a-313e-48b1-b57d-c02d5f59ce95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/header[@class=&quot;font-avenir absolute w-full z-10&quot;]/div[@class=&quot;flex
+        relative
+        w-full
+        md:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        py-8
+        px-6
+        md:px-0&quot;]/div[@class=&quot;flex text-right&quot;]/button[1]/img[@class=&quot;w-40&quot;]</value>
+      <webElementGuid>6141ceab-a1be-4376-8c3b-513cb6cd5f91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/header/div[2]/div/button/img</value>
+      <webElementGuid>8c34e3bf-b9fc-4379-9785-4b83fb51078e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='lima logo'])[2]</value>
+      <webElementGuid>3315db2b-f836-4156-86bf-310e968babb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/img</value>
+      <webElementGuid>d58b922f-90e4-47ee-a64f-6df50d8f3adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_nuxt/img/logo_perqara_white.e716f48.png' and @alt = 'lima logo']</value>
+      <webElementGuid>888e17ad-d565-48ea-bca0-f37d67557382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

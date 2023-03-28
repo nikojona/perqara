@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_menu top Blog</name>
+   <tag></tag>
+   <elementGuidId>d4797b46-9d8f-4304-94cc-4596f6930d6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@class='font-avenir absolute w-full z-10 ']/div[2]/nav/ul/li[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7822e8c2-93b6-4c44-9ece-19a509f0f788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white</value>
+      <webElementGuid>536c7abf-8fbe-406f-80cd-70e85eee666a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Blog
+  </value>
+      <webElementGuid>fb6a588d-224d-4e2b-971a-83b36d4834db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/header[@class=&quot;font-avenir absolute w-full z-10&quot;]/div[@class=&quot;flex
+        relative
+        w-full
+        md:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        py-8
+        px-6
+        md:px-0&quot;]/nav[@class=&quot;ml-5 font-avenir font-medium w-full&quot;]/ul[@class=&quot;flex md:pr-5&quot;]/li[@class=&quot;hidden md:flex py-2 px-5 content-center relative cursor-pointer&quot;]/button[@class=&quot;text-white&quot;]</value>
+      <webElementGuid>2f807ab8-ac61-47b2-bdda-62fe691db47f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/header/div[2]/nav/ul/li[3]/button</value>
+      <webElementGuid>ce2c9ec7-5bd2-463e-9754-d4d3f9f19cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Advokat'])[3]/following::button[1]</value>
+      <webElementGuid>618e7245-40ba-47b6-ab51-9e24588e2585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[3]/following::button[2]</value>
+      <webElementGuid>a0d2e256-e440-4b15-ac0a-d50ca8854367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[3]/preceding::button[1]</value>
+      <webElementGuid>bb6f6e54-351c-4fff-b051-0ce692688377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[3]/preceding::button[2]</value>
+      <webElementGuid>be24922b-3164-41ab-819a-1077d3c2cba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/ul/li[3]/button</value>
+      <webElementGuid>2b7e67fb-6637-41c9-b55f-b4bfd542a9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+    Blog
+  ' or . = '
+    Blog
+  ')]</value>
+      <webElementGuid>91ada946-b18a-48e9-97ce-0987ed41913c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>title_Masuk</name>
+   <tag></tag>
+   <elementGuidId>87c81555-dafd-421a-9c55-b39f6d084ffe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='text-2xl md:text-4xl font-bold font-avenir']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2bb5a976-dea6-4979-9112-3b88ef5850f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl md:text-4xl font-bold font-avenir</value>
+      <webElementGuid>06773a3f-dc1a-4ee4-8f9b-d3fb534ce176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>9695e678-fcc2-4c5e-8205-e7ae5d2b8f11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/div[@class=&quot;z-50&quot;]/div[@class=&quot;login-container flex justify-center items-center&quot;]/div[@class=&quot;modal-content
+        m-auto
+        mx-3
+        inline-block
+        self-start
+        align-bottom
+        bg-secondary
+        text-white
+        rounded-2xl
+        text-left
+        overflow-hidden
+        shadow-xl
+        transform
+        transition-all
+        sm:align-middle sm:max-w-lg
+        w-full&quot;]/div[@class=&quot;flex justify-between py-4 px-6 md:py-6 md:px-10&quot;]/div[1]/p[@class=&quot;text-2xl md:text-4xl font-bold font-avenir&quot;]</value>
+      <webElementGuid>415036e5-028f-4264-b0b2-96558c4350a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div/div/div/p</value>
+      <webElementGuid>31e0cb60-2057-4b74-b55f-f3f1de35fec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firefox'])[1]/preceding::p[3]</value>
+      <webElementGuid>af0b31d6-c5bc-4385-ace3-8094e6e25f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Chrome'])[1]/preceding::p[3]</value>
+      <webElementGuid>a1ec75f1-0032-4613-9d08-afcfcb45e5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>3a8830c5-0a1d-49be-9c63-9975b0de2fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>921a241b-f603-41d0-81ff-ed4247f68b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>339cc92d-6e43-43d4-a4a0-8a654dd8450c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

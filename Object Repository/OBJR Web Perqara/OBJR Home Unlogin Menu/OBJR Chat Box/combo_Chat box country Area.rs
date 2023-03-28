@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>combo_Chat box country Area</name>
+   <tag></tag>
+   <elementGuidId>3b4a7779-d5ca-413f-ae85-d98285115755</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.q-form-control.q-mr-1.qchat-form__countrycode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/div[2]/div[2]/div/div/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5e580b18-69ab-4457-9cda-f704d5cd6a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>dial_code</value>
+      <webElementGuid>3d149f19-1df1-4666-99d4-c65ae4cac94b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-form-control q-mr-1 qchat-form__countrycode</value>
+      <webElementGuid>e690f4e8-7185-47f0-9ffd-75f985682cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> +62 (Indonesia)  +673 (Brunei Darussalam)  +855 (Cambodia)  +856 (Laos)  +60 (Malaysia)  +95 (Myanmar)  +63 (Philippines)  +65 (Singapore)  +66 (Thailand)  +670 (Timor-Leste)  +84 (Vietnam)  +93 (Afghanistan)  +358 (Aland Islands)  +355 (Albania)  +213 (Algeria)  +1684 (AmericanSamoa)  +376 (Andorra)  +244 (Angola)  +1264 (Anguilla)  +672 (Antarctica)  +1268 (Antigua and Barbuda)  +54 (Argentina)  +374 (Armenia)  +297 (Aruba)  +61 (Australia)  +43 (Austria)  +994 (Azerbaijan)  +1242 (Bahamas)  +973 (Bahrain)  +880 (Bangladesh)  +1246 (Barbados)  +375 (Belarus)  +32 (Belgium)  +501 (Belize)  +229 (Benin)  +1441 (Bermuda)  +975 (Bhutan)  +591 (Bolivia, Plurinational State of)  +387 (Bosnia and Herzegovina)  +267 (Botswana)  +55 (Brazil)  +246 (British Indian Ocean Territory)  +359 (Bulgaria)  +226 (Burkina Faso)  +257 (Burundi)  +237 (Cameroon)  +1 (Canada)  +238 (Cape Verde)  +1345 (Cayman Islands)  +236 (Central African Republic)  +235 (Chad)  +56 (Chile)  +86 (China)  +61 (Christmas Island)  +61 (Cocos (Keeling) Islands)  +57 (Colombia)  +269 (Comoros)  +242 (Congo)  +243 (Congo, The Democratic Republic of the Congo)  +682 (Cook Islands)  +506 (Costa Rica)  +225 (Cote d'Ivoire)  +385 (Croatia)  +53 (Cuba)  +357 (Cyprus)  +420 (Czech Republic)  +45 (Denmark)  +253 (Djibouti)  +1767 (Dominica)  +1849 (Dominican Republic)  +593 (Ecuador)  +20 (Egypt)  +503 (El Salvador)  +240 (Equatorial Guinea)  +291 (Eritrea)  +372 (Estonia)  +251 (Ethiopia)  +500 (Falkland Islands (Malvinas))  +298 (Faroe Islands)  +679 (Fiji)  +358 (Finland)  +33 (France)  +594 (French Guiana)  +689 (French Polynesia)  +241 (Gabon)  +220 (Gambia)  +995 (Georgia)  +49 (Germany)  +233 (Ghana)  +350 (Gibraltar)  +30 (Greece)  +299 (Greenland)  +1473 (Grenada)  +590 (Guadeloupe)  +1671 (Guam)  +502 (Guatemala)  +44 (Guernsey)  +224 (Guinea)  +245 (Guinea-Bissau)  +595 (Guyana)  +509 (Haiti)  +379 (Holy See (Vatican City State))  +504 (Honduras)  +852 (Hong Kong)  +36 (Hungary)  +354 (Iceland)  +91 (India)  +98 (Iran, Islamic Republic of Persian Gulf)  +964 (Iraq)  +353 (Ireland)  +44 (Isle of Man)  +972 (Israel)  +39 (Italy)  +1876 (Jamaica)  +81 (Japan)  +44 (Jersey)  +962 (Jordan)  +77 (Kazakhstan)  +254 (Kenya)  +686 (Kiribati)  +850 (Korea, Democratic People's Republic of Korea)  +82 (Korea, Republic of South Korea)  +965 (Kuwait)  +996 (Kyrgyzstan)  +371 (Latvia)  +961 (Lebanon)  +266 (Lesotho)  +231 (Liberia)  +218 (Libyan Arab Jamahiriya)  +423 (Liechtenstein)  +370 (Lithuania)  +352 (Luxembourg)  +853 (Macao)  +389 (Macedonia)  +261 (Madagascar)  +265 (Malawi)  +960 (Maldives)  +223 (Mali)  +356 (Malta)  +692 (Marshall Islands)  +596 (Martinique)  +222 (Mauritania)  +230 (Mauritius)  +262 (Mayotte)  +52 (Mexico)  +691 (Micronesia, Federated States of Micronesia)  +373 (Moldova)  +377 (Monaco)  +976 (Mongolia)  +382 (Montenegro)  +1664 (Montserrat)  +212 (Morocco)  +258 (Mozambique)  +264 (Namibia)  +674 (Nauru)  +977 (Nepal)  +31 (Netherlands)  +599 (Netherlands Antilles)  +687 (New Caledonia)  +64 (New Zealand)  +505 (Nicaragua)  +227 (Niger)  +234 (Nigeria)  +683 (Niue)  +672 (Norfolk Island)  +1670 (Northern Mariana Islands)  +47 (Norway)  +968 (Oman)  +92 (Pakistan)  +680 (Palau)  +970 (Palestinian Territory, Occupied)  +507 (Panama)  +675 (Papua New Guinea)  +595 (Paraguay)  +51 (Peru)  +872 (Pitcairn)  +48 (Poland)  +351 (Portugal)  +1939 (Puerto Rico)  +974 (Qatar)  +40 (Romania)  +7 (Russia)  +250 (Rwanda)  +262 (Reunion)  +590 (Saint Barthelemy)  +290 (Saint Helena, Ascension and Tristan Da Cunha)  +1869 (Saint Kitts and Nevis)  +1758 (Saint Lucia)  +590 (Saint Martin)  +508 (Saint Pierre and Miquelon)  +1784 (Saint Vincent and the Grenadines)  +685 (Samoa)  +378 (San Marino)  +239 (Sao Tome and Principe)  +966 (Saudi Arabia)  +221 (Senegal)  +381 (Serbia)  +248 (Seychelles)  +232 (Sierra Leone)  +421 (Slovakia)  +386 (Slovenia)  +677 (Solomon Islands)  +252 (Somalia)  +27 (South Africa)  +211 (South Sudan)  +500 (South Georgia and the South Sandwich Islands)  +34 (Spain)  +94 (Sri Lanka)  +249 (Sudan)  +597 (Suriname)  +47 (Svalbard and Jan Mayen)  +268 (Swaziland)  +46 (Sweden)  +41 (Switzerland)  +963 (Syrian Arab Republic)  +886 (Taiwan)  +992 (Tajikistan)  +255 (Tanzania, United Republic of Tanzania)  +228 (Togo)  +690 (Tokelau)  +676 (Tonga)  +1868 (Trinidad and Tobago)  +216 (Tunisia)  +90 (Turkey)  +993 (Turkmenistan)  +1649 (Turks and Caicos Islands)  +688 (Tuvalu)  +256 (Uganda)  +380 (Ukraine)  +971 (United Arab Emirates)  +44 (United Kingdom)  +1 (United States)  +598 (Uruguay)  +998 (Uzbekistan)  +678 (Vanuatu)  +58 (Venezuela, Bolivarian Republic of Venezuela)  +1284 (Virgin Islands, British)  +1340 (Virgin Islands, U.S.)  +681 (Wallis and Futuna)  +967 (Yemen)  +260 (Zambia)  +263 (Zimbabwe) </value>
+      <webElementGuid>833f32ab-a951-49c8-b18b-6fa3b8632812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[1]/div[@class=&quot;qchat-messenger&quot;]/div[@class=&quot;qchat-messenger-body&quot;]/div[2]/div[@class=&quot;qchat-messenger-form&quot;]/div[@class=&quot;qchat-form&quot;]/div[1]/div[@class=&quot;q-d-flex q-mt-1&quot;]/select[@class=&quot;q-form-control q-mr-1 qchat-form__countrycode&quot;]</value>
+      <webElementGuid>833d106b-beec-4333-915c-717db7cc6d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat Box/iframe_Chat box</value>
+      <webElementGuid>8900e72a-d9a7-418f-a686-54a49bb577c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/div[2]/div[2]/div/div/div/div/select</value>
+      <webElementGuid>d187fbd7-764c-4415-9847-210af0de0a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::select[1]</value>
+      <webElementGuid>d0554f70-d7e1-4f62-abf2-c3a439d4e724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::select[1]</value>
+      <webElementGuid>f0dbcaab-bbcf-414a-807c-94f5b807eee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Chatting'])[1]/preceding::select[1]</value>
+      <webElementGuid>42c61291-71da-48ce-a0f3-2509b7be520c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f703a87e-8b60-4fc1-8e49-753b59721250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = concat(&quot; +62 (Indonesia)  +673 (Brunei Darussalam)  +855 (Cambodia)  +856 (Laos)  +60 (Malaysia)  +95 (Myanmar)  +63 (Philippines)  +65 (Singapore)  +66 (Thailand)  +670 (Timor-Leste)  +84 (Vietnam)  +93 (Afghanistan)  +358 (Aland Islands)  +355 (Albania)  +213 (Algeria)  +1684 (AmericanSamoa)  +376 (Andorra)  +244 (Angola)  +1264 (Anguilla)  +672 (Antarctica)  +1268 (Antigua and Barbuda)  +54 (Argentina)  +374 (Armenia)  +297 (Aruba)  +61 (Australia)  +43 (Austria)  +994 (Azerbaijan)  +1242 (Bahamas)  +973 (Bahrain)  +880 (Bangladesh)  +1246 (Barbados)  +375 (Belarus)  +32 (Belgium)  +501 (Belize)  +229 (Benin)  +1441 (Bermuda)  +975 (Bhutan)  +591 (Bolivia, Plurinational State of)  +387 (Bosnia and Herzegovina)  +267 (Botswana)  +55 (Brazil)  +246 (British Indian Ocean Territory)  +359 (Bulgaria)  +226 (Burkina Faso)  +257 (Burundi)  +237 (Cameroon)  +1 (Canada)  +238 (Cape Verde)  +1345 (Cayman Islands)  +236 (Central African Republic)  +235 (Chad)  +56 (Chile)  +86 (China)  +61 (Christmas Island)  +61 (Cocos (Keeling) Islands)  +57 (Colombia)  +269 (Comoros)  +242 (Congo)  +243 (Congo, The Democratic Republic of the Congo)  +682 (Cook Islands)  +506 (Costa Rica)  +225 (Cote d&quot; , &quot;'&quot; , &quot;Ivoire)  +385 (Croatia)  +53 (Cuba)  +357 (Cyprus)  +420 (Czech Republic)  +45 (Denmark)  +253 (Djibouti)  +1767 (Dominica)  +1849 (Dominican Republic)  +593 (Ecuador)  +20 (Egypt)  +503 (El Salvador)  +240 (Equatorial Guinea)  +291 (Eritrea)  +372 (Estonia)  +251 (Ethiopia)  +500 (Falkland Islands (Malvinas))  +298 (Faroe Islands)  +679 (Fiji)  +358 (Finland)  +33 (France)  +594 (French Guiana)  +689 (French Polynesia)  +241 (Gabon)  +220 (Gambia)  +995 (Georgia)  +49 (Germany)  +233 (Ghana)  +350 (Gibraltar)  +30 (Greece)  +299 (Greenland)  +1473 (Grenada)  +590 (Guadeloupe)  +1671 (Guam)  +502 (Guatemala)  +44 (Guernsey)  +224 (Guinea)  +245 (Guinea-Bissau)  +595 (Guyana)  +509 (Haiti)  +379 (Holy See (Vatican City State))  +504 (Honduras)  +852 (Hong Kong)  +36 (Hungary)  +354 (Iceland)  +91 (India)  +98 (Iran, Islamic Republic of Persian Gulf)  +964 (Iraq)  +353 (Ireland)  +44 (Isle of Man)  +972 (Israel)  +39 (Italy)  +1876 (Jamaica)  +81 (Japan)  +44 (Jersey)  +962 (Jordan)  +77 (Kazakhstan)  +254 (Kenya)  +686 (Kiribati)  +850 (Korea, Democratic People&quot; , &quot;'&quot; , &quot;s Republic of Korea)  +82 (Korea, Republic of South Korea)  +965 (Kuwait)  +996 (Kyrgyzstan)  +371 (Latvia)  +961 (Lebanon)  +266 (Lesotho)  +231 (Liberia)  +218 (Libyan Arab Jamahiriya)  +423 (Liechtenstein)  +370 (Lithuania)  +352 (Luxembourg)  +853 (Macao)  +389 (Macedonia)  +261 (Madagascar)  +265 (Malawi)  +960 (Maldives)  +223 (Mali)  +356 (Malta)  +692 (Marshall Islands)  +596 (Martinique)  +222 (Mauritania)  +230 (Mauritius)  +262 (Mayotte)  +52 (Mexico)  +691 (Micronesia, Federated States of Micronesia)  +373 (Moldova)  +377 (Monaco)  +976 (Mongolia)  +382 (Montenegro)  +1664 (Montserrat)  +212 (Morocco)  +258 (Mozambique)  +264 (Namibia)  +674 (Nauru)  +977 (Nepal)  +31 (Netherlands)  +599 (Netherlands Antilles)  +687 (New Caledonia)  +64 (New Zealand)  +505 (Nicaragua)  +227 (Niger)  +234 (Nigeria)  +683 (Niue)  +672 (Norfolk Island)  +1670 (Northern Mariana Islands)  +47 (Norway)  +968 (Oman)  +92 (Pakistan)  +680 (Palau)  +970 (Palestinian Territory, Occupied)  +507 (Panama)  +675 (Papua New Guinea)  +595 (Paraguay)  +51 (Peru)  +872 (Pitcairn)  +48 (Poland)  +351 (Portugal)  +1939 (Puerto Rico)  +974 (Qatar)  +40 (Romania)  +7 (Russia)  +250 (Rwanda)  +262 (Reunion)  +590 (Saint Barthelemy)  +290 (Saint Helena, Ascension and Tristan Da Cunha)  +1869 (Saint Kitts and Nevis)  +1758 (Saint Lucia)  +590 (Saint Martin)  +508 (Saint Pierre and Miquelon)  +1784 (Saint Vincent and the Grenadines)  +685 (Samoa)  +378 (San Marino)  +239 (Sao Tome and Principe)  +966 (Saudi Arabia)  +221 (Senegal)  +381 (Serbia)  +248 (Seychelles)  +232 (Sierra Leone)  +421 (Slovakia)  +386 (Slovenia)  +677 (Solomon Islands)  +252 (Somalia)  +27 (South Africa)  +211 (South Sudan)  +500 (South Georgia and the South Sandwich Islands)  +34 (Spain)  +94 (Sri Lanka)  +249 (Sudan)  +597 (Suriname)  +47 (Svalbard and Jan Mayen)  +268 (Swaziland)  +46 (Sweden)  +41 (Switzerland)  +963 (Syrian Arab Republic)  +886 (Taiwan)  +992 (Tajikistan)  +255 (Tanzania, United Republic of Tanzania)  +228 (Togo)  +690 (Tokelau)  +676 (Tonga)  +1868 (Trinidad and Tobago)  +216 (Tunisia)  +90 (Turkey)  +993 (Turkmenistan)  +1649 (Turks and Caicos Islands)  +688 (Tuvalu)  +256 (Uganda)  +380 (Ukraine)  +971 (United Arab Emirates)  +44 (United Kingdom)  +1 (United States)  +598 (Uruguay)  +998 (Uzbekistan)  +678 (Vanuatu)  +58 (Venezuela, Bolivarian Republic of Venezuela)  +1284 (Virgin Islands, British)  +1340 (Virgin Islands, U.S.)  +681 (Wallis and Futuna)  +967 (Yemen)  +260 (Zambia)  +263 (Zimbabwe) &quot;) or . = concat(&quot; +62 (Indonesia)  +673 (Brunei Darussalam)  +855 (Cambodia)  +856 (Laos)  +60 (Malaysia)  +95 (Myanmar)  +63 (Philippines)  +65 (Singapore)  +66 (Thailand)  +670 (Timor-Leste)  +84 (Vietnam)  +93 (Afghanistan)  +358 (Aland Islands)  +355 (Albania)  +213 (Algeria)  +1684 (AmericanSamoa)  +376 (Andorra)  +244 (Angola)  +1264 (Anguilla)  +672 (Antarctica)  +1268 (Antigua and Barbuda)  +54 (Argentina)  +374 (Armenia)  +297 (Aruba)  +61 (Australia)  +43 (Austria)  +994 (Azerbaijan)  +1242 (Bahamas)  +973 (Bahrain)  +880 (Bangladesh)  +1246 (Barbados)  +375 (Belarus)  +32 (Belgium)  +501 (Belize)  +229 (Benin)  +1441 (Bermuda)  +975 (Bhutan)  +591 (Bolivia, Plurinational State of)  +387 (Bosnia and Herzegovina)  +267 (Botswana)  +55 (Brazil)  +246 (British Indian Ocean Territory)  +359 (Bulgaria)  +226 (Burkina Faso)  +257 (Burundi)  +237 (Cameroon)  +1 (Canada)  +238 (Cape Verde)  +1345 (Cayman Islands)  +236 (Central African Republic)  +235 (Chad)  +56 (Chile)  +86 (China)  +61 (Christmas Island)  +61 (Cocos (Keeling) Islands)  +57 (Colombia)  +269 (Comoros)  +242 (Congo)  +243 (Congo, The Democratic Republic of the Congo)  +682 (Cook Islands)  +506 (Costa Rica)  +225 (Cote d&quot; , &quot;'&quot; , &quot;Ivoire)  +385 (Croatia)  +53 (Cuba)  +357 (Cyprus)  +420 (Czech Republic)  +45 (Denmark)  +253 (Djibouti)  +1767 (Dominica)  +1849 (Dominican Republic)  +593 (Ecuador)  +20 (Egypt)  +503 (El Salvador)  +240 (Equatorial Guinea)  +291 (Eritrea)  +372 (Estonia)  +251 (Ethiopia)  +500 (Falkland Islands (Malvinas))  +298 (Faroe Islands)  +679 (Fiji)  +358 (Finland)  +33 (France)  +594 (French Guiana)  +689 (French Polynesia)  +241 (Gabon)  +220 (Gambia)  +995 (Georgia)  +49 (Germany)  +233 (Ghana)  +350 (Gibraltar)  +30 (Greece)  +299 (Greenland)  +1473 (Grenada)  +590 (Guadeloupe)  +1671 (Guam)  +502 (Guatemala)  +44 (Guernsey)  +224 (Guinea)  +245 (Guinea-Bissau)  +595 (Guyana)  +509 (Haiti)  +379 (Holy See (Vatican City State))  +504 (Honduras)  +852 (Hong Kong)  +36 (Hungary)  +354 (Iceland)  +91 (India)  +98 (Iran, Islamic Republic of Persian Gulf)  +964 (Iraq)  +353 (Ireland)  +44 (Isle of Man)  +972 (Israel)  +39 (Italy)  +1876 (Jamaica)  +81 (Japan)  +44 (Jersey)  +962 (Jordan)  +77 (Kazakhstan)  +254 (Kenya)  +686 (Kiribati)  +850 (Korea, Democratic People&quot; , &quot;'&quot; , &quot;s Republic of Korea)  +82 (Korea, Republic of South Korea)  +965 (Kuwait)  +996 (Kyrgyzstan)  +371 (Latvia)  +961 (Lebanon)  +266 (Lesotho)  +231 (Liberia)  +218 (Libyan Arab Jamahiriya)  +423 (Liechtenstein)  +370 (Lithuania)  +352 (Luxembourg)  +853 (Macao)  +389 (Macedonia)  +261 (Madagascar)  +265 (Malawi)  +960 (Maldives)  +223 (Mali)  +356 (Malta)  +692 (Marshall Islands)  +596 (Martinique)  +222 (Mauritania)  +230 (Mauritius)  +262 (Mayotte)  +52 (Mexico)  +691 (Micronesia, Federated States of Micronesia)  +373 (Moldova)  +377 (Monaco)  +976 (Mongolia)  +382 (Montenegro)  +1664 (Montserrat)  +212 (Morocco)  +258 (Mozambique)  +264 (Namibia)  +674 (Nauru)  +977 (Nepal)  +31 (Netherlands)  +599 (Netherlands Antilles)  +687 (New Caledonia)  +64 (New Zealand)  +505 (Nicaragua)  +227 (Niger)  +234 (Nigeria)  +683 (Niue)  +672 (Norfolk Island)  +1670 (Northern Mariana Islands)  +47 (Norway)  +968 (Oman)  +92 (Pakistan)  +680 (Palau)  +970 (Palestinian Territory, Occupied)  +507 (Panama)  +675 (Papua New Guinea)  +595 (Paraguay)  +51 (Peru)  +872 (Pitcairn)  +48 (Poland)  +351 (Portugal)  +1939 (Puerto Rico)  +974 (Qatar)  +40 (Romania)  +7 (Russia)  +250 (Rwanda)  +262 (Reunion)  +590 (Saint Barthelemy)  +290 (Saint Helena, Ascension and Tristan Da Cunha)  +1869 (Saint Kitts and Nevis)  +1758 (Saint Lucia)  +590 (Saint Martin)  +508 (Saint Pierre and Miquelon)  +1784 (Saint Vincent and the Grenadines)  +685 (Samoa)  +378 (San Marino)  +239 (Sao Tome and Principe)  +966 (Saudi Arabia)  +221 (Senegal)  +381 (Serbia)  +248 (Seychelles)  +232 (Sierra Leone)  +421 (Slovakia)  +386 (Slovenia)  +677 (Solomon Islands)  +252 (Somalia)  +27 (South Africa)  +211 (South Sudan)  +500 (South Georgia and the South Sandwich Islands)  +34 (Spain)  +94 (Sri Lanka)  +249 (Sudan)  +597 (Suriname)  +47 (Svalbard and Jan Mayen)  +268 (Swaziland)  +46 (Sweden)  +41 (Switzerland)  +963 (Syrian Arab Republic)  +886 (Taiwan)  +992 (Tajikistan)  +255 (Tanzania, United Republic of Tanzania)  +228 (Togo)  +690 (Tokelau)  +676 (Tonga)  +1868 (Trinidad and Tobago)  +216 (Tunisia)  +90 (Turkey)  +993 (Turkmenistan)  +1649 (Turks and Caicos Islands)  +688 (Tuvalu)  +256 (Uganda)  +380 (Ukraine)  +971 (United Arab Emirates)  +44 (United Kingdom)  +1 (United States)  +598 (Uruguay)  +998 (Uzbekistan)  +678 (Vanuatu)  +58 (Venezuela, Bolivarian Republic of Venezuela)  +1284 (Virgin Islands, British)  +1340 (Virgin Islands, U.S.)  +681 (Wallis and Futuna)  +967 (Yemen)  +260 (Zambia)  +263 (Zimbabwe) &quot;))]</value>
+      <webElementGuid>c3552c55-cb90-4e4a-b0a7-9d1eff76c1e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

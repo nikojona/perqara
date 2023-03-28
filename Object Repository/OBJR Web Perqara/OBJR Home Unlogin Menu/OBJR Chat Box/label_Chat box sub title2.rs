@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Chat box sub title2</name>
+   <tag></tag>
+   <elementGuidId>c264d715-20a3-4188-bd45-d9b301e22bec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/div/div/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4f33a9a5-f79f-48ef-9f49-ffcf9733ee53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Punya pertanyaan atau kendala seputar konsultasi di Perqara? Agen kami siap membantu Anda. </value>
+      <webElementGuid>ffcd6dfb-72ba-4012-b4ed-ff50db456d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[1]/div[@class=&quot;qchat-messenger&quot;]/div[@class=&quot;q-d-flex&quot;]/div[@class=&quot;qchat-messenger__heading q-d-flex q-justify-content-between&quot;]/div[1]/p[2]</value>
+      <webElementGuid>f3b58792-7536-482f-8727-1ba9d938af57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat Box/iframe_Chat box</value>
+      <webElementGuid>ed6daac2-ede5-4a61-832a-b70a8726e9ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qontak-webchat']/qontak-webchat/div/div/div/div/div/div/div/p[2]</value>
+      <webElementGuid>eff8a046-70fd-4e54-a3d8-da4eb5a151ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome!'])[1]/preceding::p[1]</value>
+      <webElementGuid>1f0f6ef9-22f8-4f15-b4db-20ec4da12145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::p[1]</value>
+      <webElementGuid>b56b2ffb-fde5-4274-82a0-c7e07aa66a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Punya pertanyaan atau kendala seputar konsultasi di Perqara? Agen kami siap membantu Anda.']/parent::*</value>
+      <webElementGuid>8784a2e2-e64d-40ad-9c9d-54098c2a9ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>22e75dd1-62c7-4cce-a344-c1559288f0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Punya pertanyaan atau kendala seputar konsultasi di Perqara? Agen kami siap membantu Anda. ' or . = ' Punya pertanyaan atau kendala seputar konsultasi di Perqara? Agen kami siap membantu Anda. ')]</value>
+      <webElementGuid>0d321676-4114-4c13-9566-1253351011db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

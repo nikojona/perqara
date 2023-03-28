@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_Chat box x</name>
+   <tag></tag>
+   <elementGuidId>43dc47f9-74b5-4ba8-830d-f68e13e66771</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.qchat-box__close-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class='qchat-box__close d-flex qcentered-item']/*[local-name()='svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>870bddeb-9404-4df1-a373-f94db187fcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d87d9594-fa7d-4586-acb7-916996d88d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>d11556b0-1f88-4b23-97fa-5eeb5f3e9a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>eb0b644b-bb24-478b-8b8e-d20fb60c1d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>20c296fa-3369-4462-a693-3f71b0b0aad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qchat-box__close-icon</value>
+      <webElementGuid>5e5121b1-6e3a-4d27-9954-c8cbf652c369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qontak-webchat&quot;)/qontak-webchat[1]/div[1]/div[1]/div[@class=&quot;qchat-box__left&quot;]/div[@class=&quot;qchat-box__box&quot;]/div[@class=&quot;qchat-box__close d-flex qcentered-item&quot;]/svg[@class=&quot;qchat-box__close-icon&quot;]</value>
+      <webElementGuid>94bad351-85fd-4501-9d13-4cbe202c553b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Registration Menu/iframe_Chat box</value>
+      <webElementGuid>58e3427e-0574-4254-aecf-77b2d2799260</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

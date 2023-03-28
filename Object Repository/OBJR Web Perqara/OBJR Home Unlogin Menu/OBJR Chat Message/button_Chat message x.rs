@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Chat message x</name>
+   <tag></tag>
+   <elementGuidId>8e34cb8b-65e0-426e-bb5c-55b210f9b3e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.emoji.border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;qontak-webchat&quot;]/qontak-webchat/div/div/div/div/div[1]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6f381471-5088-42bd-aa86-57a974e94c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>emoji border</value>
+      <webElementGuid>66fb19e4-2c85-4c67-afe8-27500585d32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>😀</value>
+      <webElementGuid>5612aaec-fa27-4cb6-ab4c-3b08ae28bb8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Emojis&quot;)/div[@class=&quot;container-emoji&quot;]/div[@class=&quot;grid-emojis&quot;]/span[@class=&quot;emoji border&quot;]</value>
+      <webElementGuid>38630c34-38a8-48e7-bb26-7ffd17c7f428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OBJR Web Perqara/OBJR Home Unlogin Menu/OBJR Chat Message/iframe_Chat message</value>
+      <webElementGuid>269ff9df-e035-4db8-a507-221cdea9ec8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Emojis']/div/div/span</value>
+      <webElementGuid>e77fe457-e56d-4836-9ae7-ec75928855e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halo 2'])[1]/following::span[11]</value>
+      <webElementGuid>eab2836a-1d60-4020-aeb3-5021cd0274b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halo'])[1]/following::span[14]</value>
+      <webElementGuid>d0abacab-84b4-47ea-bb34-f280df11e050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😃'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c2edca8-7645-4b01-b289-d6b4701c0cc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='😄'])[1]/preceding::span[2]</value>
+      <webElementGuid>703b1e09-5925-4458-b3b5-03bf91d54398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='😀']/parent::*</value>
+      <webElementGuid>0faa5010-b9e5-4a7b-bee2-03b4933d306c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>c4c62e36-50e6-4fed-afb6-0d60d521025a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '😀' or . = '😀')]</value>
+      <webElementGuid>6645e8e3-57d5-462c-a624-5868e90f0bd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

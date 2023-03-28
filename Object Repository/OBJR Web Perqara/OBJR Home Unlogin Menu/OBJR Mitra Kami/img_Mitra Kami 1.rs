@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Mitra Kami 1</name>
+   <tag></tag>
+   <elementGuidId>90443260-cf58-4140-8820-8da6326e18c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.w-80.h-80.m-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;partner-logo mt-8 md:mt-0&quot;]/div/div[1]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>03962104-6418-40b4-b7fa-c90b638f8365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_nuxt/img/PERADI.843c8fb.png</value>
+      <webElementGuid>26465d84-7663-4d59-9b44-5f53be31ab58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-80 h-80 m-auto</value>
+      <webElementGuid>b5eb5998-f654-4759-a733-aade5fc9983f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[2]/section[@class=&quot;our-partner&quot;]/div[@class=&quot;content-container
+        lg:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        px-6
+        md:px-0
+        py-16
+        md:flex md:justify-between&quot;]/div[@class=&quot;partner-logo mt-8 md:mt-0&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3&quot;]/div[@class=&quot;bg-white
+              rounded-lg
+              shadow-lg
+              p-4
+              mr-4
+              md:mr-0
+              ml-0
+              md:ml-4
+              mb-4
+              w-full
+              md:w-32
+              md:h-32&quot;]/div[@class=&quot;w-full h-full flex justify-center items-center relative&quot;]/div[1]/img[@class=&quot;w-80 h-80 m-auto&quot;]</value>
+      <webElementGuid>2cd23029-2a54-4d5e-b351-3eda84cf215f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/section[3]/div/div[2]/div/div/div/div/img</value>
+      <webElementGuid>7ec23209-ffc6-4b5d-83dc-7e028d0e1ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/img</value>
+      <webElementGuid>ef8ba774-9561-4d3b-8dec-b2cbeae7d224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_nuxt/img/PERADI.843c8fb.png']</value>
+      <webElementGuid>cd4c9376-710a-4de5-8371-8bb94dd410bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

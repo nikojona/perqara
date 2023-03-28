@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_menu top FAQ</name>
+   <tag></tag>
+   <elementGuidId>6d341a70-480d-4953-93f3-f4cdd87c53d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class='flex md:pr-5']/li[4]/div[@class='text-white']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e3ee6e5e-ed6c-46c1-9a0c-cf52f87a4d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white</value>
+      <webElementGuid>c925416a-6e70-46f9-91e0-8e625aa02130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      FAQ
+    </value>
+      <webElementGuid>7bdabdca-f0a7-4814-9eff-45260593c988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/header[@class=&quot;font-avenir absolute w-full z-10&quot;]/div[@class=&quot;flex
+        relative
+        w-full
+        md:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        py-8
+        px-6
+        md:px-0&quot;]/nav[@class=&quot;ml-5 font-avenir font-medium w-full&quot;]/ul[@class=&quot;flex md:pr-5&quot;]/li[@class=&quot;hidden md:flex py-2 px-5 content-center relative cursor-pointer&quot;]/div[@class=&quot;text-white&quot;]/button[@class=&quot;text-white&quot;]</value>
+      <webElementGuid>cba17c43-a3c6-4fa6-a08f-264e32a89144</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/header/div[2]/nav/ul/li[4]/div/button</value>
+      <webElementGuid>cc7147e8-9251-46b2-b7de-b2e784a119ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[3]/following::button[1]</value>
+      <webElementGuid>3a15b337-261a-486a-8e69-5dc6fd6c25f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Advokat'])[3]/following::button[2]</value>
+      <webElementGuid>5635e791-f2d8-4fce-9559-7e5b078be72b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[3]/preceding::button[1]</value>
+      <webElementGuid>3ea60fbd-35ca-4bf6-906c-cf143816b8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::button[2]</value>
+      <webElementGuid>39c35cf3-4cc0-4a22-8b1c-83c3e2e95e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/ul/li[4]/div/button</value>
+      <webElementGuid>07bfeeaa-e6b3-4282-867c-6ff11e9921d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+      FAQ
+    ' or . = '
+      FAQ
+    ')]</value>
+      <webElementGuid>58e9541a-5ea4-426b-af46-46c04efcc136</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

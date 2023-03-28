@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Penting box title</name>
+   <tag></tag>
+   <elementGuidId>49c93cf4-e2ff-4a9a-82b2-7ee7adaeab26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-orange-100.border-l-4.border-orange-500.text-orange-700.p-4.mb-4.rounded > p.font-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class='font-bold']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>96aa6154-24dc-4957-b661-14714031669f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold</value>
+      <webElementGuid>71f3cd6f-807c-4419-93cf-fcfb81c5f10d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penting!</value>
+      <webElementGuid>24cb4ac9-98d7-4def-9018-7cc323e814fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/div[@class=&quot;z-50&quot;]/div[@class=&quot;login-container flex justify-center items-center&quot;]/div[@class=&quot;modal-content
+        m-auto
+        mx-3
+        inline-block
+        self-start
+        align-bottom
+        bg-secondary
+        text-white
+        rounded-2xl
+        text-left
+        overflow-hidden
+        shadow-xl
+        transform
+        transition-all
+        sm:align-middle sm:max-w-lg
+        w-full&quot;]/div[@class=&quot;bg-white
+          h-full
+          rounded-2xl
+          text-black
+          py-4
+          px-6
+          md:py-6 md:px-10&quot;]/div[@class=&quot;bg-orange-100 border-l-4 border-orange-500 text-orange-700 p-4 mb-4 rounded&quot;]/p[@class=&quot;font-bold&quot;]</value>
+      <webElementGuid>060ea94f-1310-4b3e-9fc0-21eb424116c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div/div[2]/div/p</value>
+      <webElementGuid>9b409b6b-944a-46e7-8c5e-7a5f353cc8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firefox'])[1]/preceding::p[1]</value>
+      <webElementGuid>1173206b-661d-42c6-9d10-772307098c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Chrome'])[1]/preceding::p[1]</value>
+      <webElementGuid>ed734e8f-f399-4d4d-8d15-36bdc2bb9d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penting!']/parent::*</value>
+      <webElementGuid>8d0f4cc6-ea33-451a-88f8-4631a30c0d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>a462846e-d97f-41b4-ad8d-719a8776a0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Penting!' or . = 'Penting!')]</value>
+      <webElementGuid>1ec5466d-5525-4c77-98fe-78bd8110044e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

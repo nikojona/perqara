@@ -1,0 +1,102 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS Landing Page,Chrome 111.0.5563.110,,,2023-03-27 18:03:15,2023-03-27 18:05:07,1m - 51.254s,PASSED
+,,,,,,,
+Test Cases/TCF Home Menu/TC Customer successfully check elements completeness perqara landing page without login,Chrome 111.0.5563.110,,,2023-03-27 18:03:16,2023-03-27 18:03:41,25.459s,PASSED
+"openBrowser("""")",Chrome 111.0.5563.110,,,2023-03-27 18:03:17,2023-03-27 18:03:20,3.650s,PASSED
+"navigateToUrl(""https://perqara.com/"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:20,2023-03-27 18:03:33,12.256s,PASSED
+"if (verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi""), 1, CONTINUE_ON_FAILURE))",Chrome 111.0.5563.110,,,2023-03-27 18:03:33,2023-03-27 18:03:34,1.337s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/icon_perqara Menu Top""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:34,2023-03-27 18:03:34,0.275s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Beranda""), ""Beranda"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:34,2023-03-27 18:03:34,0.310s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Cari Advokat""), ""Cari Advokat"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:34,2023-03-27 18:03:35,0.134s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Blog""), ""Blog"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.218s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top FAQ""), ""FAQ"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.090s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Kebijakan Privasi""), ""Kebijakan Privasi"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.101s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Masuk""), ""Masuk"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.107s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Daftar""), ""Daftar"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.073s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Cari Pengacara/button_Cari""), ""Cari"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.103s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/h2_Pilih berdasarkan kategori""), ""Pilih berdasarkan kategori"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.079s,PASSED
+"mes = getText(findTestObject(""OBJR Landing Page/OBJR Kategori/label_Kategori temukan advokat""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.093s,PASSED
+"if (!(toString().contains(""Pilih kategori dan temukan advokat yang tepat untuk menjawab"")))",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:35,0.003s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_box kategori Pidana""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:35,2023-03-27 18:03:36,0.075s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Pidana""), ""Pidana"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:36,0.101s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana""), ""Detail Kategori"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:36,0.119s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/img_kategori Pidana""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:36,0.108s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_box kategori Perdata""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:36,0.095s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_label Perdata""), ""Perdata"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:36,0.094s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana""), ""Detail Kategori"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:36,0.114s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/img_kategori Perdata""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:36,0.223s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_kategori Ketenagakerjaan""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:36,2023-03-27 18:03:37,0.157s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_label Ketenagakerjaan""), ""Ketenagakerjaan"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.102s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana""), ""Detail Kategori"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.073s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/img_kategori Ketenagakerjaan""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.087s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_box kategori Perkawinan dan Perceraian""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.065s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_label Perkawinan dan Perceraian""), ""Perkawinan dan Perceraian"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.071s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana""), ""Detail Kategori"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.092s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/img_kategori Perkawinan dan Perceraian""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.094s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_box kategori Pertanahan""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.073s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_label Pertanahan""), ""Pertanahan"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.128s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana""), ""Detail Kategori"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:37,0.157s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/img_kategori Pertanahan""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:37,2023-03-27 18:03:38,0.099s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_box kategori Perpajakan""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.077s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_label Perpajakan""), ""Perpajakan"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.075s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana""), ""Detail Kategori"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.094s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/img_kategori Perpajakan""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.109s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Kategori/button_Lihat lebih banyak""), ""Lihat lebih banyak"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.096s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Advokat Online""), ""Advokat Online"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.088s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Tidak ada advokat yang tersedia""), ""Tidak ada advokat yang tersedia"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.088s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Top Advokat/label_Top Advokat Bulan Ini""), ""Top Advokat Bulan Ini"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.096s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/img_top advokat 1""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:38,0.104s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat title 1""), ""Pidana"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:38,2023-03-27 18:03:39,0.086s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat nama 1""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.075s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/img_top advokat 2""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.083s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat title 2""), ""Perkawinan dan Perceraian"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.159s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat nama 2""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.092s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Mitra Kami/h2_Mitra Kami""), ""Mitra Kami"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.095s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 1""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.127s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 2""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.085s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 3""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.068s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_perqara Menu Bottom""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.089s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Beranda""), ""Beranda"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:39,0.084s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Cari Advokat""), ""Cari Advokat"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:39,2023-03-27 18:03:40,0.068s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Blog""), ""Blog"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:40,2023-03-27 18:03:40,0.555s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom FAQ""), ""FAQ"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:40,2023-03-27 18:03:40,0.130s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Kebijakan Privasi""), ""Kebijakan Privasi"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:40,2023-03-27 18:03:40,0.077s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom instagram""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:40,2023-03-27 18:03:40,0.105s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom linkedin""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:40,2023-03-27 18:03:40,0.079s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Jakarta Indonesia""), ""Jakarta, Indonesia"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:40,2023-03-27 18:03:41,0.066s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Hak Cipta Dilindungi""), ""2023 Perqara. Hak Cipta Dilindungi"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:41,2023-03-27 18:03:41,0.068s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:41,2023-03-27 18:03:41,0.204s,PASSED
+"verifyElementText(findTestObject(""Object Repository/OBJR Landing Page/OBJR Chat/label_Chat kendala""), ""Kendala saat akses Perqara? Klik disini"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:41,2023-03-27 18:03:41,0.142s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Chat/baloon_Chat kendala akses Perqara""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:41,2023-03-27 18:03:41,0.151s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat close""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:41,2023-03-27 18:03:41,0.161s,PASSED
+closeBrowser(),Chrome 111.0.5563.110,,,2023-03-27 18:03:41,2023-03-27 18:03:41,0.183s,PASSED
+,,,,,,,
+Test Cases/TCF Home Menu/TC Customer successfully able to chat without login,Chrome 111.0.5563.110,,,2023-03-27 18:03:41,2023-03-27 18:05:07,1m - 25.233s,PASSED
+"openBrowser("""")",Chrome 111.0.5563.110,,,2023-03-27 18:03:42,2023-03-27 18:03:43,1.391s,PASSED
+"navigateToUrl(""https://perqara.com/"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:43,2023-03-27 18:03:54,10.394s,PASSED
+"if (verifyElementPresent(findTestObject(""Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi""), 1, CONTINUE_ON_FAILURE))",Chrome 111.0.5563.110,,,2023-03-27 18:03:54,2023-03-27 18:03:55,1.041s,PASSED
+"verifyElementPresent(findTestObject(""OBJR Landing Page/OBJR Chat/icon_Chat circle""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:03:55,2023-03-27 18:03:55,0.236s,PASSED
+"click(findTestObject(""OBJR Landing Page/OBJR Chat/icon_Chat circle""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:55,2023-03-27 18:03:56,0.971s,PASSED
+"stringName = getText(findTestObject(""OBJR Landing Page/OBJR Chat Box/label_Chat box Name""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:56,2023-03-27 18:03:57,0.575s,PASSED
+"if (!(toString().contains(""Name"")))",Chrome 111.0.5563.110,,,2023-03-27 18:03:57,2023-03-27 18:03:57,0.001s,PASSED
+"stringEmail = getText(findTestObject(""OBJR Landing Page/OBJR Chat Box/label_Chat box Email Address""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:57,2023-03-27 18:03:57,0.174s,PASSED
+"if (!(toString().contains(""Email Address"")))",Chrome 111.0.5563.110,,,2023-03-27 18:03:57,2023-03-27 18:03:57,0.001s,PASSED
+"stringPhone = getText(findTestObject(""OBJR Landing Page/OBJR Chat Box/label_Chat box Phone Number""))",Chrome 111.0.5563.110,,,2023-03-27 18:03:57,2023-03-27 18:03:57,0.166s,PASSED
+"if (!(toString().contains(""Phone Number"")))",Chrome 111.0.5563.110,,,2023-03-27 18:03:57,2023-03-27 18:03:57,0.000s,PASSED
+"setText(findTestObject(""OBJR Landing Page/OBJR Chat Box/textbox_Chat box Name""), ""Nickolas Jonathan"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:57,2023-03-27 18:03:58,1.486s,PASSED
+"setText(findTestObject(""OBJR Landing Page/OBJR Chat Box/textbox_Chat box Email Address""), ""nikojona@gmail.com"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:58,2023-03-27 18:03:59,0.961s,PASSED
+"setText(findTestObject(""OBJR Landing Page/OBJR Chat Box/textbox_Chat box Phone Number""), ""8568989583"")",Chrome 111.0.5563.110,,,2023-03-27 18:03:59,2023-03-27 18:04:00,0.297s,PASSED
+"click(findTestObject(""OBJR Landing Page/OBJR Chat Box/button_Chat box start chatting""))",Chrome 111.0.5563.110,,,2023-03-27 18:04:00,2023-03-27 18:04:01,1.264s,PASSED
+"verifyElementPresent(findTestObject(""OBJR Landing Page/OBJR Chat Message/button_Chat message logout""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:01,2023-03-27 18:04:01,0.294s,PASSED
+"verifyElementPresent(findTestObject(""OBJR Landing Page/OBJR Chat Message/button_Chat message x""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:01,2023-03-27 18:04:01,0.217s,PASSED
+"verifyElementPresent(findTestObject(""OBJR Landing Page/OBJR Chat Message/label_Chat message today""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:01,2023-03-27 18:04:02,0.131s,PASSED
+"verifyElementPresent(findTestObject(""OBJR Landing Page/OBJR Chat Message/icon_Chat message attachment""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:02,2023-03-27 18:04:02,0.116s,PASSED
+"verifyElementPresent(findTestObject(""OBJR Landing Page/OBJR Chat Message/icon_Chat message emoji""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:02,2023-03-27 18:04:02,0.147s,PASSED
+"setText(findTestObject(""OBJR Landing Page/OBJR Chat Message/textbox_Chat message""), ""Testing chat using Automation"")",Chrome 111.0.5563.110,,,2023-03-27 18:04:02,2023-03-27 18:04:02,0.249s,PASSED
+"sendKeys(findTestObject(""OBJR Landing Page/OBJR Chat Message/textbox_Chat message""), Keys.chord(ENTER))",Chrome 111.0.5563.110,,,2023-03-27 18:04:02,2023-03-27 18:04:02,0.233s,PASSED
+"click(findTestObject(""OBJR Landing Page/OBJR Chat Message/button_Chat message x""))",Chrome 111.0.5563.110,,,2023-03-27 18:04:02,2023-03-27 18:04:03,0.880s,PASSED
+"verifyElementNotPresent(findTestObject(""OBJR Landing Page/OBJR Chat Message/box_Chat message conversation""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:03,2023-03-27 18:04:35,31.325s,PASSED
+"verifyElementPresent(findTestObject(""OBJR Landing Page/OBJR Chat/icon_Chat circle""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:35,2023-03-27 18:04:35,0.260s,PASSED
+"click(findTestObject(""OBJR Landing Page/OBJR Chat/icon_Chat circle""))",Chrome 111.0.5563.110,,,2023-03-27 18:04:35,2023-03-27 18:04:35,0.431s,PASSED
+"verifyElementNotPresent(findTestObject(""OBJR Landing Page/OBJR Chat/icon_Chat circle""), 30)",Chrome 111.0.5563.110,,,2023-03-27 18:04:35,2023-03-27 18:05:06,31.223s,PASSED
+closeBrowser(),Chrome 111.0.5563.110,,,2023-03-27 18:05:06,2023-03-27 18:05:07,0.223s,PASSED

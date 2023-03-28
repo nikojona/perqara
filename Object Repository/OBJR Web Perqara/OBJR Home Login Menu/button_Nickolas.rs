@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Nickolas</name>
+   <tag></tag>
+   <elementGuidId>241aed65-3d81-4a9a-aa20-8c6495cb0452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@class='py-2 px-3 font-bold font-sf text-sm text-white ']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25397ee6-d7f0-4db9-b601-3659b493950d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nickolas</value>
+      <webElementGuid>ed11266f-d0e8-406b-8311-330c2bd6eb48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/header[@class=&quot;font-avenir absolute w-full z-10&quot;]/div[@class=&quot;flex
+        relative
+        w-full
+        md:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        py-8
+        px-6
+        md:px-0&quot;]/nav[@class=&quot;ml-5 font-avenir font-medium w-full&quot;]/ul[@class=&quot;flex md:pr-5&quot;]/li[@class=&quot;ml-auto&quot;]/ul[@class=&quot;flex&quot;]/li[@class=&quot;py-2 px-3 font-bold font-sf text-sm text-white&quot;]/button[1]</value>
+      <webElementGuid>f3d9f578-4da5-4279-a579-9fc8ac00dfda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/header/div[2]/nav/ul/li[6]/ul/li[2]/button</value>
+      <webElementGuid>ca9b116a-047f-420a-8505-6c743e184019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[2]/following::button[1]</value>
+      <webElementGuid>28badd78-a7aa-41e4-a1ea-8016c95837b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[3]/following::button[2]</value>
+      <webElementGuid>b00cc5f4-3ec7-4e4e-87fe-af5fbe669a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[4]/preceding::button[1]</value>
+      <webElementGuid>03a23b98-256b-435e-89aa-92f87521061b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Advokat'])[4]/preceding::button[1]</value>
+      <webElementGuid>217c46bb-cb4c-4dbe-a8d2-88392c468221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/ul/li[6]/ul/li[2]/button</value>
+      <webElementGuid>43afff3a-131e-4266-a70e-45bb4bbd1b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Nickolas' or . = 'Nickolas')]</value>
+      <webElementGuid>92ca02d9-cce1-427e-9e2f-e8cd1f1adbb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

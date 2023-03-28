@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS Landing Page" time="111.254" tests="2" failures="0" errors="0">
+   <testsuite name="TS Landing Page" tests="2" failures="0" errors="0" time="111.254" skipped="0" timestamp="2023-03-27 18:03:15" hostname="nikojona - localhost" id="Test Suites/TS Landing Page">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/nikojona/git/perqara/Reports/20230327_180312/TS Landing Page/20230327_180312"/>
+         <property name="logFiles" value="/Users/nikojona/git/perqara/Reports/20230327_180312/TS Landing Page/20230327_180312/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nikojona - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 111.0.5563.110"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="00a127d779c3d107ef3ebf19fce94c96"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TCF Home Menu/TC Customer successfully check elements completeness perqara landing page without login" time="25.459" classname="Test Cases/TCF Home Menu/TC Customer successfully check elements completeness perqara landing page without login" status="PASSED">
+         <system-out><![CDATA[2023-03-27 18:03:16 - [TEST_CASE][PASSED] - Test Cases/TCF Home Menu/TC Customer successfully check elements completeness perqara landing page without login: Test Cases/TCF Home Menu/TC Customer successfully check elements completeness perqara landing page without login
+
+2023-03-27 18:03:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-27 18:03:17 - [MESSAGE][INFO] - Starting 'Chrome (headless)' driver
+
+2023-03-27 18:03:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-27 18:03:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-27 18:03:20 - [TEST_STEP][PASSED] - navigateToUrl("https://perqara.com/"): Navigate to 'https://perqara.com/' successfully
+
+2023-03-27 18:03:33 - [MESSAGE][PASSED] - Navigate to 'https://perqara.com/' successfully
+
+2023-03-27 18:03:33 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi"), 1, CONTINUE_ON_FAILURE)): null
+
+2023-03-27 18:03:33 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi' is present
+
+2023-03-27 18:03:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi")): Object: 'Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi' is clicked on
+
+2023-03-27 18:03:34 - [MESSAGE][PASSED] - Object: 'Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi' is clicked on
+
+2023-03-27 18:03:34 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/icon_perqara Menu Top")): Object 'Object Repository/OBJR Landing Page/OBJR Menu Top/icon_perqara Menu Top' is visible
+
+2023-03-27 18:03:34 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Menu Top/icon_perqara Menu Top' is visible
+
+2023-03-27 18:03:34 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Beranda"), "Beranda"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Beranda' are matched.
+
+2023-03-27 18:03:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Beranda' are matched.
+
+2023-03-27 18:03:34 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Cari Advokat"), "Cari Advokat"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Cari Advokat' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Cari Advokat' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Blog"), "Blog"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Blog' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Blog' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top FAQ"), "FAQ"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top FAQ' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top FAQ' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Kebijakan Privasi"), "Kebijakan Privasi"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Kebijakan Privasi' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Kebijakan Privasi' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Masuk"), "Masuk"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Masuk' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Masuk' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Daftar"), "Daftar"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Daftar' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Top/link_menu top Daftar' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Cari Pengacara/button_Cari"), "Cari"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Cari Pengacara/button_Cari' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Cari Pengacara/button_Cari' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/h2_Pilih berdasarkan kategori"), "Pilih berdasarkan kategori"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/h2_Pilih berdasarkan kategori' are matched.
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/h2_Pilih berdasarkan kategori' are matched.
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - mes = getText(findTestObject("OBJR Landing Page/OBJR Kategori/label_Kategori temukan advokat")): Text of object 'Object Repository/OBJR Landing Page/OBJR Kategori/label_Kategori temukan advokat' is: 'Pilih kategori dan temukan advokat yang tepat untuk menjawab permasalahan hukum Anda.'
+
+2023-03-27 18:03:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/OBJR Landing Page/OBJR Kategori/label_Kategori temukan advokat' is: 'Pilih kategori dan temukan advokat yang tepat untuk menjawab permasalahan hukum Anda.'
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - if (!(toString().contains("Pilih kategori dan temukan advokat yang tepat untuk menjawab"))): null
+
+2023-03-27 18:03:35 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_box kategori Pidana"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_box kategori Pidana' is present
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_box kategori Pidana' is present
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Pidana"), "Pidana"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Pidana' are matched.
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Pidana' are matched.
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana"), "Detail Kategori"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/img_kategori Pidana")): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/img_kategori Pidana' is visible
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/img_kategori Pidana' is visible
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_box kategori Perdata"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_box kategori Perdata' is present
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_box kategori Perdata' is present
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_label Perdata"), "Perdata"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_label Perdata' are matched.
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/link_label Perdata' are matched.
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana"), "Detail Kategori"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/img_kategori Perdata")): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/img_kategori Perdata' is visible
+
+2023-03-27 18:03:36 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori perdata/img_kategori Perdata' is visible
+
+2023-03-27 18:03:36 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_kategori Ketenagakerjaan"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_kategori Ketenagakerjaan' is present
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_kategori Ketenagakerjaan' is present
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_label Ketenagakerjaan"), "Ketenagakerjaan"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_label Ketenagakerjaan' are matched.
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/link_label Ketenagakerjaan' are matched.
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana"), "Detail Kategori"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/img_kategori Ketenagakerjaan")): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/img_kategori Ketenagakerjaan' is visible
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Ketenagakerjaan/img_kategori Ketenagakerjaan' is visible
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_box kategori Perkawinan dan Perceraian"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_box kategori Perkawinan dan Perceraian' is present
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_box kategori Perkawinan dan Perceraian' is present
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_label Perkawinan dan Perceraian"), "Perkawinan dan Perceraian"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_label Perkawinan dan Perceraian' are matched.
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/link_label Perkawinan dan Perceraian' are matched.
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana"), "Detail Kategori"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/img_kategori Perkawinan dan Perceraian")): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/img_kategori Perkawinan dan Perceraian' is visible
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perkawinan dan Perceraian/img_kategori Perkawinan dan Perceraian' is visible
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_box kategori Pertanahan"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_box kategori Pertanahan' is present
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_box kategori Pertanahan' is present
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_label Pertanahan"), "Pertanahan"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_label Pertanahan' are matched.
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/link_label Pertanahan' are matched.
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana"), "Detail Kategori"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/img_kategori Pertanahan")): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/img_kategori Pertanahan' is visible
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pertanahan/img_kategori Pertanahan' is visible
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_box kategori Perpajakan"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_box kategori Perpajakan' is present
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_box kategori Perpajakan' is present
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_label Perpajakan"), "Perpajakan"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_label Perpajakan' are matched.
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/link_label Perpajakan' are matched.
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana"), "Detail Kategori"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Pidana/link_label Detail Kategori Pidana' are matched.
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/img_kategori Perpajakan")): Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/img_kategori Perpajakan' is visible
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Kategori/OBJR Kategori Perpajakan/img_kategori Perpajakan' is visible
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Kategori/button_Lihat lebih banyak"), "Lihat lebih banyak"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/button_Lihat lebih banyak' are matched.
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Kategori/button_Lihat lebih banyak' are matched.
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Advokat Online"), "Advokat Online"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Advokat Online' are matched.
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Advokat Online' are matched.
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Tidak ada advokat yang tersedia"), "Tidak ada advokat yang tersedia"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Tidak ada advokat yang tersedia' are matched.
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Advokat Online/label_Tidak ada advokat yang tersedia' are matched.
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Top Advokat/label_Top Advokat Bulan Ini"), "Top Advokat Bulan Ini"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/label_Top Advokat Bulan Ini' are matched.
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/label_Top Advokat Bulan Ini' are matched.
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/img_top advokat 1")): Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/img_top advokat 1' is visible
+
+2023-03-27 18:03:38 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/img_top advokat 1' is visible
+
+2023-03-27 18:03:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat title 1"), "Pidana"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat title 1' are matched.
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat title 1' are matched.
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat nama 1")): Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat nama 1' is visible
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 1/label_top advokat nama 1' is visible
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/img_top advokat 2")): Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/img_top advokat 2' is visible
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/img_top advokat 2' is visible
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat title 2"), "Perkawinan dan Perceraian"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat title 2' are matched.
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat title 2' are matched.
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat nama 2")): Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat nama 2' is visible
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Top Advokat/OBJR Top Advokat 2/label_top advokat nama 2' is visible
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Mitra Kami/h2_Mitra Kami"), "Mitra Kami"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/h2_Mitra Kami' are matched.
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/h2_Mitra Kami' are matched.
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 1")): Object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 1' is visible
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 1' is visible
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 2")): Object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 2' is visible
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 2' is visible
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 3")): Object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 3' is visible
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Mitra Kami/img_Mitra Kami 3' is visible
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_perqara Menu Bottom")): Object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_perqara Menu Bottom' is visible
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_perqara Menu Bottom' is visible
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Beranda"), "Beranda"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Beranda' are matched.
+
+2023-03-27 18:03:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Beranda' are matched.
+
+2023-03-27 18:03:39 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Cari Advokat"), "Cari Advokat"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Cari Advokat' are matched.
+
+2023-03-27 18:03:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Cari Advokat' are matched.
+
+2023-03-27 18:03:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Blog"), "Blog"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Blog' are matched.
+
+2023-03-27 18:03:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Blog' are matched.
+
+2023-03-27 18:03:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom FAQ"), "FAQ"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom FAQ' are matched.
+
+2023-03-27 18:03:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom FAQ' are matched.
+
+2023-03-27 18:03:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Kebijakan Privasi"), "Kebijakan Privasi"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Kebijakan Privasi' are matched.
+
+2023-03-27 18:03:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/link_menu bottom Kebijakan Privasi' are matched.
+
+2023-03-27 18:03:40 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom instagram")): Object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom instagram' is visible
+
+2023-03-27 18:03:40 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom instagram' is visible
+
+2023-03-27 18:03:40 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom linkedin")): Object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom linkedin' is visible
+
+2023-03-27 18:03:40 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/icon_menu bottom linkedin' is visible
+
+2023-03-27 18:03:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Jakarta Indonesia"), "Jakarta, Indonesia"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Jakarta Indonesia' are matched.
+
+2023-03-27 18:03:41 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Jakarta Indonesia' are matched.
+
+2023-03-27 18:03:41 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Hak Cipta Dilindungi"), "2023 Perqara. Hak Cipta Dilindungi"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Hak Cipta Dilindungi' are matched.
+
+2023-03-27 18:03:41 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Menu Bottom/label_menu bottom Hak Cipta Dilindungi' are matched.
+
+2023-03-27 18:03:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is present
+
+2023-03-27 18:03:41 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is present
+
+2023-03-27 18:03:41 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/OBJR Landing Page/OBJR Chat/label_Chat kendala"), "Kendala saat akses Perqara? Klik disini"): Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Chat/label_Chat kendala' are matched.
+
+2023-03-27 18:03:41 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Landing Page/OBJR Chat/label_Chat kendala' are matched.
+
+2023-03-27 18:03:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Chat/baloon_Chat kendala akses Perqara"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat/baloon_Chat kendala akses Perqara' is present
+
+2023-03-27 18:03:41 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat/baloon_Chat kendala akses Perqara' is present
+
+2023-03-27 18:03:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat close")): Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat close' is visible
+
+2023-03-27 18:03:41 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat close' is visible
+
+2023-03-27 18:03:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-27 18:03:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCF Home Menu/TC Customer successfully able to chat without login" time="85.233" classname="Test Cases/TCF Home Menu/TC Customer successfully able to chat without login" status="PASSED">
+         <system-out><![CDATA[2023-03-27 18:03:41 - [TEST_CASE][PASSED] - Test Cases/TCF Home Menu/TC Customer successfully able to chat without login: Test Cases/TCF Home Menu/TC Customer successfully able to chat without login
+
+2023-03-27 18:03:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-27 18:03:42 - [MESSAGE][INFO] - Starting 'Chrome (headless)' driver
+
+2023-03-27 18:03:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-27 18:03:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-27 18:03:43 - [TEST_STEP][PASSED] - navigateToUrl("https://perqara.com/"): Navigate to 'https://perqara.com/' successfully
+
+2023-03-27 18:03:54 - [MESSAGE][PASSED] - Navigate to 'https://perqara.com/' successfully
+
+2023-03-27 18:03:54 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi"), 1, CONTINUE_ON_FAILURE)): null
+
+2023-03-27 18:03:54 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi' is present
+
+2023-03-27 18:03:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi")): Object: 'Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi' is clicked on
+
+2023-03-27 18:03:55 - [MESSAGE][PASSED] - Object: 'Object Repository/OBJR Landing Page/OBJR Modal/modal_icon x Kebijakan Privasi' is clicked on
+
+2023-03-27 18:03:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("OBJR Landing Page/OBJR Chat/icon_Chat circle"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is present
+
+2023-03-27 18:03:55 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is present
+
+2023-03-27 18:03:55 - [TEST_STEP][PASSED] - click(findTestObject("OBJR Landing Page/OBJR Chat/icon_Chat circle")): Object: 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is clicked on
+
+2023-03-27 18:03:56 - [MESSAGE][PASSED] - Object: 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is clicked on
+
+2023-03-27 18:03:56 - [TEST_STEP][PASSED] - stringName = getText(findTestObject("OBJR Landing Page/OBJR Chat Box/label_Chat box Name")): Text of object 'Object Repository/OBJR Landing Page/OBJR Chat Box/label_Chat box Name' is: 'Name'
+
+2023-03-27 18:03:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/OBJR Landing Page/OBJR Chat Box/label_Chat box Name' is: 'Name'
+
+2023-03-27 18:03:57 - [TEST_STEP][PASSED] - if (!(toString().contains("Name"))): null
+
+2023-03-27 18:03:57 - [TEST_STEP][PASSED] - stringEmail = getText(findTestObject("OBJR Landing Page/OBJR Chat Box/label_Chat box Email Address")): Text of object 'Object Repository/OBJR Landing Page/OBJR Chat Box/label_Chat box Email Address' is: 'Email Address'
+
+2023-03-27 18:03:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/OBJR Landing Page/OBJR Chat Box/label_Chat box Email Address' is: 'Email Address'
+
+2023-03-27 18:03:57 - [TEST_STEP][PASSED] - if (!(toString().contains("Email Address"))): null
+
+2023-03-27 18:03:57 - [TEST_STEP][PASSED] - stringPhone = getText(findTestObject("OBJR Landing Page/OBJR Chat Box/label_Chat box Phone Number")): Text of object 'Object Repository/OBJR Landing Page/OBJR Chat Box/label_Chat box Phone Number' is: 'Phone Number'
+
+2023-03-27 18:03:57 - [MESSAGE][PASSED] - Text of object 'Object Repository/OBJR Landing Page/OBJR Chat Box/label_Chat box Phone Number' is: 'Phone Number'
+
+2023-03-27 18:03:57 - [TEST_STEP][PASSED] - if (!(toString().contains("Phone Number"))): null
+
+2023-03-27 18:03:57 - [TEST_STEP][PASSED] - setText(findTestObject("OBJR Landing Page/OBJR Chat Box/textbox_Chat box Name"), "Nickolas Jonathan"): Text 'Nickolas Jonathan' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Box/textbox_Chat box Name'
+
+2023-03-27 18:03:58 - [MESSAGE][PASSED] - Text 'Nickolas Jonathan' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Box/textbox_Chat box Name'
+
+2023-03-27 18:03:58 - [TEST_STEP][PASSED] - setText(findTestObject("OBJR Landing Page/OBJR Chat Box/textbox_Chat box Email Address"), "nikojona@gmail.com"): Text 'nikojona@gmail.com' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Box/textbox_Chat box Email Address'
+
+2023-03-27 18:03:59 - [MESSAGE][PASSED] - Text 'nikojona@gmail.com' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Box/textbox_Chat box Email Address'
+
+2023-03-27 18:03:59 - [TEST_STEP][PASSED] - setText(findTestObject("OBJR Landing Page/OBJR Chat Box/textbox_Chat box Phone Number"), "8568989583"): Text '8568989583' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Box/textbox_Chat box Phone Number'
+
+2023-03-27 18:04:00 - [MESSAGE][PASSED] - Text '8568989583' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Box/textbox_Chat box Phone Number'
+
+2023-03-27 18:04:00 - [TEST_STEP][PASSED] - click(findTestObject("OBJR Landing Page/OBJR Chat Box/button_Chat box start chatting")): Object: 'Object Repository/OBJR Landing Page/OBJR Chat Box/button_Chat box start chatting' is clicked on
+
+2023-03-27 18:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/OBJR Landing Page/OBJR Chat Box/button_Chat box start chatting' is clicked on
+
+2023-03-27 18:04:01 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("OBJR Landing Page/OBJR Chat Message/button_Chat message logout"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/button_Chat message logout' is present
+
+2023-03-27 18:04:01 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/button_Chat message logout' is present
+
+2023-03-27 18:04:01 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("OBJR Landing Page/OBJR Chat Message/button_Chat message x"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/button_Chat message x' is present
+
+2023-03-27 18:04:01 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/button_Chat message x' is present
+
+2023-03-27 18:04:01 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("OBJR Landing Page/OBJR Chat Message/label_Chat message today"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/label_Chat message today' is present
+
+2023-03-27 18:04:02 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/label_Chat message today' is present
+
+2023-03-27 18:04:02 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("OBJR Landing Page/OBJR Chat Message/icon_Chat message attachment"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/icon_Chat message attachment' is present
+
+2023-03-27 18:04:02 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/icon_Chat message attachment' is present
+
+2023-03-27 18:04:02 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("OBJR Landing Page/OBJR Chat Message/icon_Chat message emoji"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/icon_Chat message emoji' is present
+
+2023-03-27 18:04:02 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat Message/icon_Chat message emoji' is present
+
+2023-03-27 18:04:02 - [TEST_STEP][PASSED] - setText(findTestObject("OBJR Landing Page/OBJR Chat Message/textbox_Chat message"), "Testing chat using Automation"): Text 'Testing chat using Automation' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Message/textbox_Chat message'
+
+2023-03-27 18:04:02 - [MESSAGE][PASSED] - Text 'Testing chat using Automation' is set on object 'Object Repository/OBJR Landing Page/OBJR Chat Message/textbox_Chat message'
+
+2023-03-27 18:04:02 - [TEST_STEP][PASSED] - sendKeys(findTestObject("OBJR Landing Page/OBJR Chat Message/textbox_Chat message"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/OBJR Landing Page/OBJR Chat Message/textbox_Chat message'
+
+2023-03-27 18:04:02 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/OBJR Landing Page/OBJR Chat Message/textbox_Chat message'
+
+2023-03-27 18:04:02 - [TEST_STEP][PASSED] - click(findTestObject("OBJR Landing Page/OBJR Chat Message/button_Chat message x")): Object: 'Object Repository/OBJR Landing Page/OBJR Chat Message/button_Chat message x' is clicked on
+
+2023-03-27 18:04:03 - [MESSAGE][PASSED] - Object: 'Object Repository/OBJR Landing Page/OBJR Chat Message/button_Chat message x' is clicked on
+
+2023-03-27 18:04:03 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("OBJR Landing Page/OBJR Chat Message/box_Chat message conversation"), 30): Web element with id: 'Object Repository/OBJR Landing Page/OBJR Chat Message/box_Chat message conversation' located by 'By.xpath: //*[@id="conversations"]' is not present after '30' second(s)
+
+2023-03-27 18:04:34 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id="conversations"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-03-27 18:04:35 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/OBJR Landing Page/OBJR Chat Message/box_Chat message conversation' located by 'By.xpath: //*[@id="conversations"]' is not present after '30' second(s)
+
+2023-03-27 18:04:35 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("OBJR Landing Page/OBJR Chat/icon_Chat circle"), 30): Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is present
+
+2023-03-27 18:04:35 - [MESSAGE][PASSED] - Object 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is present
+
+2023-03-27 18:04:35 - [TEST_STEP][PASSED] - click(findTestObject("OBJR Landing Page/OBJR Chat/icon_Chat circle")): Object: 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is clicked on
+
+2023-03-27 18:04:35 - [MESSAGE][PASSED] - Object: 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' is clicked on
+
+2023-03-27 18:04:35 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("OBJR Landing Page/OBJR Chat/icon_Chat circle"), 30): Web element with id: 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' located by 'By.xpath: //div[@class='qchat-button']' is not present after '30' second(s)
+
+2023-03-27 18:05:06 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@class='qchat-button']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-03-27 18:05:06 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/OBJR Landing Page/OBJR Chat/icon_Chat circle' located by 'By.xpath: //div[@class='qchat-button']' is not present after '30' second(s)
+
+2023-03-27 18:05:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-27 18:05:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-27 18:03:15 - [TEST_SUITE][PASSED] - TS Landing Page: Test Cases/TCF Home Menu/TC Customer successfully able to chat without login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

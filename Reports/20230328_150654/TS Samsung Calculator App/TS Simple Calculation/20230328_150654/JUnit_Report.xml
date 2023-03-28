@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS Simple Calculation" time="113.305" tests="4" failures="0" errors="0">
+   <testsuite name="TS Simple Calculation" tests="4" failures="0" errors="0" time="113.305" skipped="0" timestamp="2023-03-28 15:06:57" hostname="nikojona - localhost" id="Test Suites/TS Samsung Calculator App/TS Simple Calculation">
+      <properties>
+         <property name="deviceName" value="samsung SM-G975F (Android 12)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/nikojona/git/perqara/Reports/20230328_150654/TS Samsung Calculator App/TS Simple Calculation/20230328_150654"/>
+         <property name="logFiles" value="/Users/nikojona/git/perqara/Reports/20230328_150654/TS Samsung Calculator App/TS Simple Calculation/20230328_150654/execution0.log, /Users/nikojona/git/perqara/Reports/20230328_150654/TS Samsung Calculator App/TS Simple Calculation/20230328_150654/appium.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="nikojona - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="SM-G975F"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="deviceManufacturer" value="samsung"/>
+         <property name="deviceId" value="RR8M20MBJGW"/>
+         <property name="deviceName" value="samsung SM-G975F (Android 12)"/>
+         <property name="deviceOSVersion" value="12"/>
+      </properties>
+      <testcase name="Test Cases/TCF Samsung Calculator App/TC Addition" time="30.105" classname="Test Cases/TCF Samsung Calculator App/TC Addition" status="PASSED">
+         <system-out><![CDATA[2023-03-28 15:06:57 - [TEST_CASE][PASSED] - Test Cases/TCF Samsung Calculator App/TC Addition: Test Cases/TCF Samsung Calculator App/TC Addition
+
+2023-03-28 15:06:58 - [TEST_STEP][PASSED] - startExistingApplication("com.sec.android.app.popupcalculator"): Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:07:00 - [MESSAGE][INFO] - Detected NodeJS location: "/Users/nikojona/.nvm/versions/node/v19.2.0/bin/node"
+
+2023-03-28 15:07:00 - [MESSAGE][INFO] - Appium server started on port 61,917
+
+2023-03-28 15:07:11 - [MESSAGE][PASSED] - Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:07:11 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:07:16 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:07:16 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button C"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:07:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:07:17 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 4"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 4'
+
+2023-03-28 15:07:18 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 4'
+
+2023-03-28 15:07:18 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Addition"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Addition'
+
+2023-03-28 15:07:19 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Addition'
+
+2023-03-28 15:07:19 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 3"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:07:20 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:07:20 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Equal"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:07:21 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:07:21 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("OBJR Samsung Calculator/Result Display"), "7 Calculation result"): Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:07:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:07:22 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:07:27 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:07:27 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2023-03-28 15:07:27 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCF Samsung Calculator App/TC Division" time="28.218" classname="Test Cases/TCF Samsung Calculator App/TC Division" status="PASSED">
+         <system-out><![CDATA[2023-03-28 15:07:27 - [TEST_CASE][PASSED] - Test Cases/TCF Samsung Calculator App/TC Division: Test Cases/TCF Samsung Calculator App/TC Division
+
+2023-03-28 15:07:28 - [TEST_STEP][PASSED] - startExistingApplication("com.sec.android.app.popupcalculator"): Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:07:29 - [MESSAGE][INFO] - Detected NodeJS location: "/Users/nikojona/.nvm/versions/node/v19.2.0/bin/node"
+
+2023-03-28 15:07:30 - [MESSAGE][INFO] - Appium server started on port 62,025
+
+2023-03-28 15:07:39 - [MESSAGE][PASSED] - Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:07:39 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:07:44 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:07:44 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button C"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:07:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:07:45 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 3"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:07:46 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:07:46 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 0"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 0'
+
+2023-03-28 15:07:47 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 0'
+
+2023-03-28 15:07:47 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Division"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Division'
+
+2023-03-28 15:07:47 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Division'
+
+2023-03-28 15:07:47 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 6"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 6'
+
+2023-03-28 15:07:48 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 6'
+
+2023-03-28 15:07:48 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Equal"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:07:49 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:07:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("OBJR Samsung Calculator/Result Display"), "5 Calculation result"): Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:07:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:07:50 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:07:55 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:07:55 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2023-03-28 15:07:56 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCF Samsung Calculator App/TC Multiplication" time="27.325" classname="Test Cases/TCF Samsung Calculator App/TC Multiplication" status="PASSED">
+         <system-out><![CDATA[2023-03-28 15:07:56 - [TEST_CASE][PASSED] - Test Cases/TCF Samsung Calculator App/TC Multiplication: Test Cases/TCF Samsung Calculator App/TC Multiplication
+
+2023-03-28 15:07:56 - [TEST_STEP][PASSED] - startExistingApplication("com.sec.android.app.popupcalculator"): Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:07:58 - [MESSAGE][INFO] - Detected NodeJS location: "/Users/nikojona/.nvm/versions/node/v19.2.0/bin/node"
+
+2023-03-28 15:07:58 - [MESSAGE][INFO] - Appium server started on port 62,138
+
+2023-03-28 15:08:07 - [MESSAGE][PASSED] - Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:08:07 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:08:12 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:08:12 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button C"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:08:13 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:08:13 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 4"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 4'
+
+2023-03-28 15:08:14 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 4'
+
+2023-03-28 15:08:14 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Multiplication"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Multiplication'
+
+2023-03-28 15:08:15 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Multiplication'
+
+2023-03-28 15:08:15 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 3"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:08:16 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:08:16 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Equal"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:08:16 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:08:16 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("OBJR Samsung Calculator/Result Display"), "12 Calculation result"): Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:08:17 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:08:17 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:08:22 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:08:22 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2023-03-28 15:08:23 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TCF Samsung Calculator App/TC Subtraction" time="27.176" classname="Test Cases/TCF Samsung Calculator App/TC Subtraction" status="PASSED">
+         <system-out><![CDATA[2023-03-28 15:08:23 - [TEST_CASE][PASSED] - Test Cases/TCF Samsung Calculator App/TC Subtraction: Test Cases/TCF Samsung Calculator App/TC Subtraction
+
+2023-03-28 15:08:23 - [TEST_STEP][PASSED] - startExistingApplication("com.sec.android.app.popupcalculator"): Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:08:25 - [MESSAGE][INFO] - Detected NodeJS location: "/Users/nikojona/.nvm/versions/node/v19.2.0/bin/node"
+
+2023-03-28 15:08:26 - [MESSAGE][INFO] - Appium server started on port 62,246
+
+2023-03-28 15:08:35 - [MESSAGE][PASSED] - Starting app with application ID: 'com.sec.android.app.popupcalculator'
+
+2023-03-28 15:08:35 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:08:40 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:08:40 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button C"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:08:40 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button C'
+
+2023-03-28 15:08:40 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 9"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 9'
+
+2023-03-28 15:08:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 9'
+
+2023-03-28 15:08:41 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Subtraction"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Subtraction'
+
+2023-03-28 15:08:42 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Subtraction'
+
+2023-03-28 15:08:42 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button 3"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:08:43 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button 3'
+
+2023-03-28 15:08:43 - [TEST_STEP][PASSED] - tap(findTestObject("OBJR Samsung Calculator/Button Equal"), 2): Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:08:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OBJR Samsung Calculator/Button Equal'
+
+2023-03-28 15:08:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("OBJR Samsung Calculator/Result Display"), "6 Calculation result"): Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:08:45 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/OBJR Samsung Calculator/Result Display' are matched.
+
+2023-03-28 15:08:45 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2023-03-28 15:08:50 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2023-03-28 15:08:50 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2023-03-28 15:08:50 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-28 15:06:57 - [TEST_SUITE][PASSED] - TS Simple Calculation: Test Cases/TCF Samsung Calculator App/TC Subtraction]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

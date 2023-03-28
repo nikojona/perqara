@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_atau button</name>
+   <tag></tag>
+   <elementGuidId>e296e6ba-fdeb-49bf-8cc1-680566ecfacf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='mt-6 mb-4']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47c769c6-5d60-46cf-b0eb-fb45b0e5bca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+                  font-sf
+                  px-1
+                  -mt-3
+                  flex
+                  mx-auto
+                  w-12
+                  justify-center
+                  bg-white
+                  font-normal
+                  text-sm text-dark-gray
+                </value>
+      <webElementGuid>a829a428-8a30-48d7-b7fd-11cc2c99c925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>atau</value>
+      <webElementGuid>6c45cab3-72ae-4aec-ac29-3ca93addc079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/div[@class=&quot;z-50&quot;]/div[@class=&quot;login-container flex justify-center items-center&quot;]/div[@class=&quot;modal-content
+        m-auto
+        mx-3
+        inline-block
+        self-start
+        align-bottom
+        bg-secondary
+        text-white
+        rounded-2xl
+        text-left
+        overflow-hidden
+        shadow-xl
+        transform
+        transition-all
+        sm:align-middle sm:max-w-lg
+        w-full&quot;]/div[@class=&quot;bg-white
+          h-full
+          rounded-2xl
+          text-black
+          py-4
+          px-6
+          md:py-6 md:px-10&quot;]/div[@class=&quot;form-container font-avenir&quot;]/div[3]/div[@class=&quot;mt-6 mb-4&quot;]/span[@class=&quot;font-sf
+                  px-1
+                  -mt-3
+                  flex
+                  mx-auto
+                  w-12
+                  justify-center
+                  bg-white
+                  font-normal
+                  text-sm text-dark-gray&quot;]</value>
+      <webElementGuid>a6bf0d4e-190e-4e15-9c61-9bd54fb9e588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div/div[2]/div[2]/div[3]/div/span</value>
+      <webElementGuid>255b6738-4c6e-45d7-93d0-41008da7117d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/following::span[1]</value>
+      <webElementGuid>78467575-b56e-44a6-98b5-384ef9762f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa sandi?'])[1]/following::span[1]</value>
+      <webElementGuid>992cdc35-d781-4d18-b25d-18d713be9a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang !'])[1]/preceding::span[1]</value>
+      <webElementGuid>22f628b5-30c6-4055-b750-c4ba348f716e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/preceding::span[2]</value>
+      <webElementGuid>2a7cc025-e5fb-4374-a705-7e7d68be06c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>a56dc0ec-e8c5-4f90-b76b-1069a9bc5109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'atau' or . = 'atau')]</value>
+      <webElementGuid>593aef1f-d935-418b-83d1-4ef7f150e794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

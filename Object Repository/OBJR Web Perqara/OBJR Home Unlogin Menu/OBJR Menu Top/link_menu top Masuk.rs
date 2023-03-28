@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_menu top Masuk</name>
+   <tag></tag>
+   <elementGuidId>4b154883-5501-46b2-9925-b97cf3b3e622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class='flex md:pr-5']/li[@class='ml-auto']/ul/li[@class='px-5 md:text-white pl-8 my-auto']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>92234593-0cba-44ed-8ee7-ea387fe800a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+                    inline-block
+                    text-center
+                    self-center
+                    px-5
+                    text-white
+                    md:bg-transparent
+                    md:border
+                    md:border-transparent
+                    md:px-8
+                    md:py-1
+                    md:rounded-md
+                  </value>
+      <webElementGuid>03416f6f-72b1-4784-bac0-0710cd6e4e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Masuk
+                </value>
+      <webElementGuid>d3d34c40-0a7b-42ce-9f82-5f9a12648baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;md:mb-56&quot;]/div[1]/header[@class=&quot;font-avenir absolute w-full z-10&quot;]/div[@class=&quot;flex
+        relative
+        w-full
+        md:max-w-screen-lg
+        xl:max-w-screen-xl
+        mx-auto
+        py-8
+        px-6
+        md:px-0&quot;]/nav[@class=&quot;ml-5 font-avenir font-medium w-full&quot;]/ul[@class=&quot;flex md:pr-5&quot;]/li[@class=&quot;ml-auto&quot;]/ul[@class=&quot;flex&quot;]/li[@class=&quot;px-5 md:text-white pl-8 my-auto&quot;]/button[@class=&quot;inline-block
+                    text-center
+                    self-center
+                    px-5
+                    text-white
+                    md:bg-transparent
+                    md:border
+                    md:border-transparent
+                    md:px-8
+                    md:py-1
+                    md:rounded-md&quot;]</value>
+      <webElementGuid>3c71136b-65d1-4054-86ce-9e2252775853</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/header/div[2]/nav/ul/li[6]/ul/li/button</value>
+      <webElementGuid>0136ff32-bae0-429a-b11a-9b21ee0237e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[3]/following::button[1]</value>
+      <webElementGuid>bb68f617-a9ea-4796-a920-c13aba1317b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[3]/following::button[2]</value>
+      <webElementGuid>e78e436d-8b7c-46fc-be02-ddd37633c8b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::button[1]</value>
+      <webElementGuid>c3e2ade9-a6a6-4d7b-80d0-9d7de8b54eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[4]/preceding::button[2]</value>
+      <webElementGuid>523d06d5-5c30-4300-b37d-f72320d3c714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/ul/li[6]/ul/li/button</value>
+      <webElementGuid>b35805fe-4fd6-4599-94ba-22fd10ecd434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                  Masuk
+                ' or . = '
+                  Masuk
+                ')]</value>
+      <webElementGuid>d88c59a9-1f73-47b6-a1cf-ffe0b6e6fc9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
